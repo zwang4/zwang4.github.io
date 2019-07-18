@@ -2,112 +2,112 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Zheng Wang</title>
-    <link>http://www.lancaster.ac.uk/staff/wangz3/publication_types/2/</link>
+    <link>https://zwang4.github.io/publication_types/2/</link>
     <description>Recent content in 2 on Zheng Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="http://www.lancaster.ac.uk/staff/wangz3/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zwang4.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Characterizing Scalability of Sparse Matrix-Vector Multiplications on Phytium FT-2000&#43;</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/ijpp19/</link>
+      <link>https://zwang4.github.io/publication/ijpp19/</link>
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/ijpp19/</guid>
+      <guid>https://zwang4.github.io/publication/ijpp19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SleepGuard: Capturing Rich Sleep Information using Smartwatch Sensing Data</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/ubicomp18/</link>
+      <link>https://zwang4.github.io/publication/ubicomp18/</link>
       <pubDate>Wed, 11 Jul 2018 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/ubicomp18/</guid>
+      <guid>https://zwang4.github.io/publication/ubicomp18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Video-based Attack for Android Pattern Lock</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/tops18/</link>
+      <link>https://zwang4.github.io/publication/tops18/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/tops18/</guid>
+      <guid>https://zwang4.github.io/publication/tops18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimizing Sparse Matrix-Vector Multiplications on An ARMv8-based Many-Core Architecture</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/ijpp18/</link>
+      <link>https://zwang4.github.io/publication/ijpp18/</link>
       <pubDate>Sat, 28 Apr 2018 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/ijpp18/</guid>
+      <guid>https://zwang4.github.io/publication/ijpp18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Find Me A Safe Zone: A Countermeasure for Channel State Information Based Attacks</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/csj18--2/</link>
+      <link>https://zwang4.github.io/publication/csj18--2/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/csj18--2/</guid>
+      <guid>https://zwang4.github.io/publication/csj18--2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhance virtual-machine-based code obfuscation security through dynamic bytecode scheduling</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/csj18/</link>
+      <link>https://zwang4.github.io/publication/csj18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/csj18/</guid>
+      <guid>https://zwang4.github.io/publication/csj18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning in Compiler Optimisation</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/pieee18/</link>
+      <link>https://zwang4.github.io/publication/pieee18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/pieee18/</guid>
+      <guid>https://zwang4.github.io/publication/pieee18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ALEA: A Fine-grained Energy Profiling Tool</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/taco17/</link>
+      <link>https://zwang4.github.io/publication/taco17/</link>
       <pubDate>Tue, 28 Mar 2017 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/taco17/</guid>
+      <guid>https://zwang4.github.io/publication/taco17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic and Portable Mapping of Data Parallel Programs to OpenCL for GPU-based Heterogeneous Systems</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/taco15/</link>
+      <link>https://zwang4.github.io/publication/taco15/</link>
       <pubDate>Sat, 28 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/taco15/</guid>
+      <guid>https://zwang4.github.io/publication/taco15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrating Profile-Driven Parallelism Detection and Machine-Learning Based Mapping</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/taco14/</link>
+      <link>https://zwang4.github.io/publication/taco14/</link>
       <pubDate>Fri, 28 Feb 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/taco14/</guid>
+      <guid>https://zwang4.github.io/publication/taco14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Machine Learning to Partition Streaming Programs</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/taco13/</link>
+      <link>https://zwang4.github.io/publication/taco13/</link>
       <pubDate>Thu, 28 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/taco13/</guid>
+      <guid>https://zwang4.github.io/publication/taco13/</guid>
       <description></description>
     </item>
     

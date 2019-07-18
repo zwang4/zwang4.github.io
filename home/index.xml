@@ -2,140 +2,141 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Zheng Wang</title>
-    <link>http://www.lancaster.ac.uk/staff/wangz3/home/</link>
+    <link>https://zwang4.github.io/home/</link>
     <description>Recent content in Homes on Zheng Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="http://www.lancaster.ac.uk/staff/wangz3/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zwang4.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/home/about/</link>
-      <pubDate>Sun, 14 Jul 2019 00:00:00 +0100</pubDate>
+      <link>https://zwang4.github.io/home/about/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/home/about/</guid>
-      <description>Zheng Wang  16 July 2019: I have moved to the University of Leeds to take up an associate professor position at the School of Computing. I still maintain an affiliation at Lancaster University to continously supervise my PhD students. You can contact me via email: z.{lastname}5@leeds dot ac dot uk.
-I was a senior lecturer (~UK associate professor) in the School of Computing and Communications at Lancaster University where I led the Distributed Systems Resarch Group.</description>
+      <guid>https://zwang4.github.io/home/about/</guid>
+      <description>Zheng Wang  I am an associate professor at the School of Computing at the University of Leeds. I am a member of the Distributed Systems and Services Group at Leeds. I am a member of the HiPEAC Network of Excellence.
+Previously, I was a senior lecturer (~UK associate professor) in the School of Computing and Communications at Lancaster University where I led the Distributed Systems Resarch Group.
+I am interested in developing new methods and building systems to allow computers to adapt to the ever-changing environment.</description>
     </item>
     
     <item>
       <title>News</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/home/news/</link>
+      <link>https://zwang4.github.io/home/news/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/home/news/</guid>
+      <guid>https://zwang4.github.io/home/news/</guid>
       <description> [May, 2019] One paper accepted by IJCAI &amp;lsquo;19 [Feb, 2019] Received the Best Paper Award at CGO &amp;lsquo;19 [Nov, 2018] Our paper on function merging is accepted by CGO &amp;lsquo;19 [October, 2018] Our ACM CCS 2018 submission is among the best paper award finalists! (top-4 ranked papers) [July, 2018] Our paper on building a Generative Adversarial Network based captach solver is accepted by ACM CCS &amp;lsquo;18 [July, 2018] One paper got accepted by ACM IMWUT - Ubicomp &amp;lsquo;18 [May, 2018] Our work on Android pattern lock security got accepted to ACM TOPS [March, 2018] Our work on enabling large-scale wifi sensing got accepted in Mobicom 2018 [March, 2018] Our paper on optimising deep learning on embedded devices accepted in LCTES 2018  </description>
     </item>
     
     <item>
       <title>Research Team</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/home/team/</link>
+      <link>https://zwang4.github.io/home/team/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/home/team/</guid>
+      <guid>https://zwang4.github.io/home/team/</guid>
       <description>RAs  Vicent Sanz Marco Volker Seeker  PhD Students  Ben Taylor, 10 / 2015 -, supported by a FST PhD studentship Willy WOLFF, 02 / 2016 -, co-supervise with Geraint North from ARM, support by an iCASE PhD studentship. Rodrigo Caetano Rocha 10 / 2016 -, co-supervise with Hugh Leather and Murray Cole from the University of Edinburgh Guixin Ye, 09 / 2016 -, co-supervise with Prof. Dingyi Fang Jie Zhang, 09 / 2017 -, co-supervise with Prof.</description>
     </item>
     
     <item>
       <title>Awards</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/home/awards/</link>
+      <link>https://zwang4.github.io/home/awards/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/home/awards/</guid>
+      <guid>https://zwang4.github.io/home/awards/</guid>
       <description> Best Paper Award: PACT 2010, CGO 2017, PACT 2017, CGO 2019 Best Paper Nomination: CCS 2018 Best Presentation Award: PACT 2010, CGO 2013 HiPEAC Paper Award: PLDI 2009 IBM Bravo Award for outstanding technical contribution to Software Development Toolkit for IBM CELL BroadBand Engine Processor, IBM: 2007  </description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/home/publications/</link>
+      <link>https://zwang4.github.io/home/publications/</link>
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/home/publications/</guid>
+      <guid>https://zwang4.github.io/home/publications/</guid>
       <description>Google Scholar | Completed List @ Lancaster University Publication Portal | DBLP</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/home/publications_selected/</link>
+      <link>https://zwang4.github.io/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/home/publications_selected/</guid>
+      <guid>https://zwang4.github.io/home/publications_selected/</guid>
       <description>Google Scholar | Completed List @ Lancaster University Publication Portal | DBLP</description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/home/talks/</link>
+      <link>https://zwang4.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/home/talks/</guid>
+      <guid>https://zwang4.github.io/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/home/posts/</link>
+      <link>https://zwang4.github.io/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/home/posts/</guid>
+      <guid>https://zwang4.github.io/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/home/projects/</link>
+      <link>https://zwang4.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/home/projects/</guid>
+      <guid>https://zwang4.github.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/home/teaching/</link>
+      <link>https://zwang4.github.io/home/teaching/</link>
       <pubDate>Tue, 04 Jul 2017 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/home/teaching/</guid>
+      <guid>https://zwang4.github.io/home/teaching/</guid>
       <description> Teaching @ Lancaster University  SCC.311 Distributed Systems, 2013-2018 SCC.369 Embedded Systems, 2016-2018 SCC.120 Fundamentals of Computer Science, 2015-2017 SCC.360 Computer Science Seminars, 2013  </description>
     </item>
     
     <item>
       <title>Services</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/home/services/</link>
+      <link>https://zwang4.github.io/home/services/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/home/services/</guid>
+      <guid>https://zwang4.github.io/home/services/</guid>
       <description> Services at Lancaster University  Group lead of Distributed Systems, 2016 - Director of Recruitment, 2018 - Part 2 exam officier, 2016 - 2018  Services to the Community  Program/General Chair: COSMIC 2019 @ CGO 2019, COSMIC 2017 @ CGO 2017, COSMIC 2015 @ CGO 2015, COSMIC 2013 @ CGO 2013, HiPEAC Thematic Session 2013 and 2016 Artifact Evaluation Chair: PACT 2016 Lightning Talk Chair: PLDI 2017 Program Committee Member: CGO &amp;lsquo;20, PPoPP &amp;lsquo;20, NPC &amp;lsquo;19, Aorta @ ECOOP &amp;lsquo;19, ACL &amp;lsquo;19, IJCAI &amp;lsquo;19, IPDPS &amp;lsquo;19, ICAC &amp;lsquo;19, PACT &amp;lsquo;18, NPC &amp;lsquo;18, ICPADS &amp;lsquo;18, COLING &amp;lsquo;18, INFOCOMP &amp;lsquo;18, ICAC &amp;lsquo;18, ParCo &amp;lsquo;17, CC &amp;lsquo;16, ERPP &amp;lsquo;15, ML4PL &amp;lsquo;15, ParCo &amp;lsquo;15, ICPP-EMS &amp;lsquo;15, PASA &amp;lsquo;14, PASA &amp;lsquo;13, ITCS &amp;lsquo;12, ITCS &amp;lsquo;11, ICPADS &amp;lsquo;09 External Review Committee Member: CGO 2018, CGO 2015, PLDI 2014, HPCA 2015, HiPEAC 2011  </description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/home/tags/</link>
+      <link>https://zwang4.github.io/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/home/tags/</guid>
+      <guid>https://zwang4.github.io/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biography</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/home/bio/</link>
+      <link>https://zwang4.github.io/home/bio/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/home/bio/</guid>
+      <guid>https://zwang4.github.io/home/bio/</guid>
       <description> August, 2018 -, Senior Lecturer, School of Computing and Communications, Lancaster University. Sept, 2013 - July, 2018, Lecturer, School of Computing and Communications, Lancaster University. 2012 - 2013, Research Associate, the University of Edinbugh. 2007 - 2011, PhD Student, the University of Edinburgh. Aademic advisor: Professor Michael O&amp;rsquo;Boyle FBCS. 2005 - 2007, Research Staff member, IBM China  </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/home/contact/</link>
+      <link>https://zwang4.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/home/contact/</guid>
+      <guid>https://zwang4.github.io/home/contact/</guid>
       <description></description>
     </item>
     

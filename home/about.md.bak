@@ -1,0 +1,47 @@
++++
+# About/Biography widget.
+widget = "about"
+active = true
+date = 2019-07-17T00:00:00
+
+# Order that this section will appear in.
+weight = 5
+
+# List your academic interests.
+#[interests]
+#  interests = [
+#    "Code Optimisation",
+#    "Parallel Computing",
+#    "Security",
+#    "Communications"
+#  ]
+
+# List your qualifications (such as academic degrees).
+#[[education.courses]]
+#  course = "PhD in Computer Science"
+#  institution = "University of Edinburgh"
+#  year = 2011
+
++++
+
+#### Zheng Wang ![Chinese Name](img/name.png)
+
+I am an associate professor at the [School of Computing](https://engineering.leeds.ac.uk/info/20132/school_of_computing) at the [University of Leeds](http://www.leeds.ac.uk/).
+I am a member of  the [Distributed Systems and Services Group] (https://engineering.leeds.ac.uk/info/201552/our_research/294/distributed_systems_and_services) at Leeds.
+I am a member of the [HiPEAC Network of Excellence] (http://www.hipeac.net/). 
+
+
+Previously, I was a senior lecturer (~UK associate professor) in the [School of Computing and Communications](http://www.scc.lancs.ac.uk) at [Lancaster University] (http://www.lancaster.ac.uk) where I led the [Distributed Systems Resarch Group] (http://www.lancaster.ac.uk/scc/research/distributed-systems). 
+
+
+I am interested in developing new methods and building systems to allow computers to adapt to the ever-changing environment. My research often uses machine learning as a design methodology. 
+My work draws from, combines and contributes to the areas of compiler-based code optimisation, runtime scheduling, parallel programming and applied machine learning. My recent research also targets systems security. 
+
+I am a receipient of the Best Paper Award in PACT 2010, CGO 2017, PACT 2017, CGO 2019, Best Presentation Award at PACT 2010, CGO 2013, a HiPEAC paper award in 2009, and Best Paper Nomination/Finalist in CCS 2018. 
+
+{{% alert note %}}
+July, 2019: I have two fully funded PhD studentships available for Home/EU and International Students. Being an advisor to students is the best part of my job. Have a look at my research interests and recent publications. If any of those grab you, send me with a CV and a short text describing your background.  Please read [here] (phd.html) before apply.
+{{% /alert %}}
+
+
+

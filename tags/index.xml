@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Zheng Wang</title>
-    <link>http://www.lancaster.ac.uk/staff/wangz3/tags/</link>
+    <link>https://zwang4.github.io/tags/</link>
     <description>Recent content in Tags on Zheng Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 27 Apr 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="http://www.lancaster.ac.uk/staff/wangz3/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zwang4.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bug-detection</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/tags/bug-detection/</link>
+      <link>https://zwang4.github.io/tags/bug-detection/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/tags/bug-detection/</guid>
+      <guid>https://zwang4.github.io/tags/bug-detection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compiler</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/tags/compiler/</link>
+      <link>https://zwang4.github.io/tags/compiler/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/tags/compiler/</guid>
+      <guid>https://zwang4.github.io/tags/compiler/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data-center</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/tags/data-center/</link>
+      <link>https://zwang4.github.io/tags/data-center/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/tags/data-center/</guid>
+      <guid>https://zwang4.github.io/tags/data-center/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Energy-accouting</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/tags/energy-accouting/</link>
+      <link>https://zwang4.github.io/tags/energy-accouting/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/tags/energy-accouting/</guid>
+      <guid>https://zwang4.github.io/tags/energy-accouting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Energy-optimisation</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/tags/energy-optimisation/</link>
+      <link>https://zwang4.github.io/tags/energy-optimisation/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/tags/energy-optimisation/</guid>
+      <guid>https://zwang4.github.io/tags/energy-optimisation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobile-computing</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/tags/mobile-computing/</link>
+      <link>https://zwang4.github.io/tags/mobile-computing/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/tags/mobile-computing/</guid>
+      <guid>https://zwang4.github.io/tags/mobile-computing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parallel-computing</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/tags/parallel-computing/</link>
+      <link>https://zwang4.github.io/tags/parallel-computing/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/tags/parallel-computing/</guid>
+      <guid>https://zwang4.github.io/tags/parallel-computing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Runtime</title>
-      <link>http://www.lancaster.ac.uk/staff/wangz3/tags/runtime/</link>
+      <link>https://zwang4.github.io/tags/runtime/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>http://www.lancaster.ac.uk/staff/wangz3/tags/runtime/</guid>
+      <guid>https://zwang4.github.io/tags/runtime/</guid>
       <description></description>
     </item>
     
