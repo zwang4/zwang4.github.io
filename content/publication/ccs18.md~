@@ -1,0 +1,21 @@
++++
+title = "Yet Another Text Captcha Solver: A Generative Adversarial Network Based Approach"
+date = "2018-07-04"
+authors = ["Guixin Ye","Zhanyong Tang","Dingyi Fang","Zhanxing Zhu","Yansong Feng","**Zheng Wang**"]
+publication_types = ["1"]
+publication = "The 25th ACM Conference on Computer and Communications Security (**CCS**) (~~Best Paper Award Finalists!~~)"
+publication_short = "CCS '18"
+publication_url="https://www.sigsac.org/ccs/CCS2018/"
+url_preprint = "publications/ccs18.pdf"
+url_dataset = "https://goo.gl/92VxXC"
+url_code = "https://goo.gl/92VxXC"
+image_preview = ""
+selected = true
+projects = []
+math = true
+highlight = true
+[header]
+image = ""
+caption = ""
++++
+

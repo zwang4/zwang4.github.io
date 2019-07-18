@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zheng Wang on Zheng Wang</title>
+    <link>http://www.lancaster.ac.uk/staff/wangz3/</link>
+    <description>Recent content in Zheng Wang on Zheng Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0100</lastBuildDate>
+    <atom:link href="/staff/wangz3/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Characterizing Scalability of Sparse Matrix-Vector Multiplications on Phytium FT-2000&#43;</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/ijpp19/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/ijpp19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/ijcai19/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/ijcai19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Function Merging by Sequence Alignment</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/cgo19/</link>
+      <pubDate>Wed, 02 Jan 2019 12:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/cgo19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lattice CNNs for Matching Based Chinese Question Answering</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/aaai19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/aaai19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GEM: translational software for outbreak analysis </title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/project/welcometrust/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/project/welcometrust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Code Diversity to Enhance Code Virtualization Protection</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/icpads18/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/icpads18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proteus: Network-aware Web Browsing on Heterogeneous Mobile Systems</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/conext18/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/conext18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SleepGuard: Capturing Rich Sleep Information using Smartwatch Sensing Data</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/ubicomp18/</link>
+      <pubDate>Wed, 11 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/ubicomp18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yet Another Text Captcha Solver: A Generative Adversarial Network Based Approach</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/ccs18/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/ccs18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CrossSense: Towards Cross-Site and Large-Scale WiFi Sensing </title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/mobicom18/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/mobicom18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Video-based Attack for Android Pattern Lock</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/tops18/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/tops18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Compress, or Not to Compress: Characterizing Deep Learning Model Compression for Embedded Inference</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/ispa18/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/ispa18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Brush Movements for Chinese Calligraphy: A Computer Vision Based Approach</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/ijcai18/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/ijcai18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Sparse Matrix-Vector Multiplications on An ARMv8-based Many-Core Architecture</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/ijpp18/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/ijpp18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marrying up Regular Expressions with Neural Networks: A Case Study for Spoken Language Understanding</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/acl18/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/acl18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

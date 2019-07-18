@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Zheng Wang</title>
+    <link>http://www.lancaster.ac.uk/staff/wangz3/publication_types/1/</link>
+    <description>Recent content in 1 on Zheng Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lancaster.ac.uk/staff/wangz3/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/ijcai19/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/ijcai19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Function Merging by Sequence Alignment</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/cgo19/</link>
+      <pubDate>Wed, 02 Jan 2019 12:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/cgo19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lattice CNNs for Matching Based Chinese Question Answering</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/aaai19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/aaai19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Code Diversity to Enhance Code Virtualization Protection</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/icpads18/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/icpads18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proteus: Network-aware Web Browsing on Heterogeneous Mobile Systems</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/conext18/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/conext18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yet Another Text Captcha Solver: A Generative Adversarial Network Based Approach</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/ccs18/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/ccs18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CrossSense: Towards Cross-Site and Large-Scale WiFi Sensing </title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/mobicom18/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/mobicom18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Compress, or Not to Compress: Characterizing Deep Learning Model Compression for Embedded Inference</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/ispa18/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/ispa18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Brush Movements for Chinese Calligraphy: A Computer Vision Based Approach</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/ijcai18/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/ijcai18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marrying up Regular Expressions with Neural Networks: A Case Study for Spoken Language Understanding</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/acl18/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/acl18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Deep Learning Model Selection on Embedded Systems </title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/lctes18/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/lctes18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto-tuning Streamed Applications on Intel Xeon Phi </title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/ipdps18/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/ipdps18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scale Up Event Extraction Learning via Automatic Training Data Generation </title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/aaai18/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/aaai18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Optimization of Sparse Matrix-Vector Multiplication on Emerging Many-Core Architectures</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/hpcc18/</link>
+      <pubDate>Mon, 01 Jan 2018 11:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/hpcc18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOCL: An Efficient OpenCL Implementation for the Matrix-2000 Architecture</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/cf18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/cf18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Large-Scale RFID Positioning: A Low-cost, High-precision Solution Based on Compressive Sensing </title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/percom18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/percom18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Spark Application Throughput Via Memory Aware Task Co-location: A Mixture of Experts Approach</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/middleware17/</link>
+      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/middleware17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cracking Android Pattern Lock in Five Attempts</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/ndss17/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/ndss17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-end Deep Learning of Optimization Heuristics</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/pact17/</link>
+      <pubDate>Sat, 01 Jul 2017 11:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/pact17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing Benchmarks for Predictive Modeling</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/cgo17-1/</link>
+      <pubDate>Fri, 02 Jun 2017 12:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/cgo17-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimizing the cost of iterative compilation with active learning</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/cgo17-2/</link>
+      <pubDate>Fri, 02 Jun 2017 10:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/cgo17-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Power Cycling in Video on Demand Data Centres using Online Bayesian Prediction</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/icdcs17/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/icdcs17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimise Web Browsing on Heterogeneous Mobile Platforms: A Machine Learning Based Approach</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/infocom17/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/infocom17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning with Noise: Enhance Distantly Supervised Relation Extraction with Dynamic Transition Matrix</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/acl17/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/acl17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Optimization for OpenCL Programs on Embedded Heterogeneous Systems</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/lctes17/</link>
+      <pubDate>Tue, 28 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/lctes17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AppIS: Protect Android Apps Against Runtime Repackaging Attacks</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/icpads17/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/icpads17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEEAD: A Semantic-based Approach for Automatic Binary Code De-obfuscation</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/trustcom17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/trustcom17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Dynamic Scheduling for VM-Based Code Obfuscation</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/truscom16/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/truscom16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power capping: what works, what does not</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/icpads15/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/icpads15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent heuristic construction with active learning</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/cpc15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/cpc15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast automatic heuristic construction using active learning</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/lcpc14/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/lcpc14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active learning accelerated automatic heuristic construction for parallel program mapping</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/pact14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/pact14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploitation of GPUs for the parallelisation of probably parallel legacy code</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/cc14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/cc14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart multi-task scheduling for OpenCL programs on CPU/GPU heterogeneous platforms</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/hipc14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/hipc14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart, adaptive mapping of parallelism in the presence of external workload</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/cgo13-1/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/cgo13-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portable mapping of data parallel programs to OpenCL for heterogeneous systems</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/cgo13-2/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/cgo13-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A workload-aware mapping approach for data-parallel programs</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/hipeac11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/hipeac11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partitioning streaming parallelism for multi-cores: a machine learning based approach</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/pact10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/pact10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Holistic Approach to Auto-Parallelization - Integrating Profile-Driven Parallelism Detection and Machine-Learning Based Mapping </title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/pldi09/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/pldi09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping Parallelism to Multi-cores: A Machine Learning Based Approach </title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/publication/ppopp09/</link>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/publication/ppopp09/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

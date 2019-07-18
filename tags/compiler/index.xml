@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compiler on Zheng Wang</title>
+    <link>http://www.lancaster.ac.uk/staff/wangz3/tags/compiler/</link>
+    <description>Recent content in Compiler on Zheng Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.lancaster.ac.uk/staff/wangz3/tags/compiler/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GEM: translational software for outbreak analysis </title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/project/welcometrust/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/project/welcometrust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy and Performance Optimisation for Mobile Systems</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/project/icase/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/project/icase/</guid>
+      <description>A PhD studentship funded by the EPSRC and ARM. Will Wolff is working on this project.</description>
+    </item>
+    
+    <item>
+      <title> SANDeRs: Smart, Adaptive Compilation for Dark Silicon</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/project/sanders/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/project/sanders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ALEA: Abstraction-Level Energy Accounting for Many-core Programming Languages </title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/project/alea/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/project/alea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy and Performance Optimisaiton on Mobile</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/project/fstsmall/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/project/fstsmall/</guid>
+      <description>Small research grant funded by the Lancaster University.</description>
+    </item>
+    
+    <item>
+      <title>Energy-efficient Optimisation for Data Centres</title>
+      <link>http://www.lancaster.ac.uk/staff/wangz3/project/small/</link>
+      <pubDate>Fri, 27 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lancaster.ac.uk/staff/wangz3/project/small/</guid>
+      <description>Funded by the Lancaster University</description>
+    </item>
+    
+  </channel>
+</rss>

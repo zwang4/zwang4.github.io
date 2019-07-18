@@ -1,0 +1,68 @@
++++
+title = "Integrating Profile-Driven Parallelism Detection and Machine-Learning Based Mapping"
+date = 2014-02-28T00:00:00
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["**Zheng Wang**",  "Georgios Tournavitis", "Bjorn Franke", "Michael O'Boyle"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["2"]
+
+# Publication name and optional abbreviated version.
+publication = "ACM Transaction on Architecture and Code Optimization (**ACM TACO**)"
+publication_short = "ACM TACO"
+publication_url = "http://dl.acm.org/citation.cfm?id=2579561"
+
+# Abstract and optional shortened version.
+abstract="Compiler-based auto-parallelization is a much-studied area but has yet to find widespread application. This is largely due to the poor identification and exploitation of application parallelism, resulting in disappointing performance far below that which a skilled expert programmer could achieve. We have identified two weaknesses in traditional parallelizing compilers and propose a novel, integrated approach resulting in significant performance improvements of the generated parallel code. Using profile-driven parallelism detection, we overcome the limitations of static analysis, enabling the identification of more application parallelism, and only rely on the user for final approval. We then replace the traditional target-specific and inflexible mapping heuristics with a machine-learning-based prediction mechanism, resulting in better mapping decisions while automating adaptation to different target architectures. We have evaluated our parallelization strategy on the NAS and SPEC CPU2000 benchmarks and two different multicore platforms (dual quad-core Intel Xeon SMP and dual-socket QS20 Cell blade). We demonstrate that our approach not only yields significant improvements when compared with state-of-the-art parallelizing compilers but also comes close to and sometimes exceeds the performance of manually parallelized codes. On average, our methodology achieves 96% of the performance of the hand-tuned OpenMP NAS and SPEC parallel benchmarks on the Intel Xeon platform and gains a significant speedup for the IBM Cell platform, demonstrating the potential of profile-guided and machine-learning- based parallelization for complex multicore platforms."
+
+# Featured image thumbnail (optional)
+image_preview = ""
+
+# Is this a selected publication? (true/false)
+selected = true 
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter the filename of your project in `content/project/`.
+#   Otherwise, set `projects = []`.
+projects = []
+
+# Links (optional).
+url_pdf = "publications/taco14.pdf"
+#url_preprint = "publications/tops18.pdf"
+#url_preprint = "#"
+#url_code = "https://github.com/zwang4/omp2ocl"
+#url_dataset = "https://dx.doi.org/10.17635/lancaster/researchdata/113"
+#url_project = "#"
+#url_slides = "http://homepages.inf.ed.ac.uk/s0786582/publications/Zheng_PPoPP2009.pdf"
+#url_video = "#"
+#url_poster = "#"
+#url_source = "#"
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+#url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+# Does the content use math formatting?
+math = false
+
+# Does the content use source code highlighting?
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+#[header]
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption :smile:"
+
++++
+

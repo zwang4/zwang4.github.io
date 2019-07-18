@@ -1,0 +1,22 @@
++++
+title = "Power capping: what works, what does not"
+date = "2015-12-01"
+authors = ["P. Petoumenos","L. Mukhanov","**Z. Wang**","H. Leather","D. Nikolopoulos"]
+publication_types = ["1"]
+publication = "IEEE 21st International Conference on Parallel and Distributed Systems (**ICPADS**)"
+publication_short = "ICPADS '15"
+publication_url="http://www.2015.icpads.org/"
+
+url_pdf="http://dx.doi.org/10.1109/ICPADS.2015.72"
+url_preprint="publications/powercap.pdf"
+image_preview = ""
+selected = false
+projects = []
+url_custom = [{name = "DOI", url = "http://dx.doi.org/10.1109/ICPADS.2015.72"}]
+math = true
+highlight = true
+[header]
+image = ""
+caption = ""
++++
+
