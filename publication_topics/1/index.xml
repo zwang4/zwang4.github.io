@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Zheng Wang</title>
+    <link>https://zwang4.github.io/publication_topics/1/</link>
+    <description>Recent content in 1 on Zheng Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://zwang4.github.io/publication_topics/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Yet Another Text Captcha Solver: A Generative Adversarial Network Based Approach</title>
+      <link>https://zwang4.github.io/publication/ccs18/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ccs18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Video-based Attack for Android Pattern Lock</title>
+      <link>https://zwang4.github.io/publication/tops18/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tops18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Find Me A Safe Zone: A Countermeasure for Channel State Information Based Attacks</title>
+      <link>https://zwang4.github.io/publication/csj18--2/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/csj18--2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhance virtual-machine-based code obfuscation security through dynamic bytecode scheduling</title>
+      <link>https://zwang4.github.io/publication/csj18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/csj18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cracking Android Pattern Lock in Five Attempts</title>
+      <link>https://zwang4.github.io/publication/ndss17/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ndss17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AppIS: Protect Android Apps Against Runtime Repackaging Attacks</title>
+      <link>https://zwang4.github.io/publication/icpads17/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/icpads17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEEAD: A Semantic-based Approach for Automatic Binary Code De-obfuscation</title>
+      <link>https://zwang4.github.io/publication/trustcom17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/trustcom17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Dynamic Scheduling for VM-Based Code Obfuscation</title>
+      <link>https://zwang4.github.io/publication/truscom16/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/truscom16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

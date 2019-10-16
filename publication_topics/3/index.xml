@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on Zheng Wang</title>
+    <link>https://zwang4.github.io/publication_topics/3/</link>
+    <description>Recent content in 3 on Zheng Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sat, 13 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://zwang4.github.io/publication_topics/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WideSee: Towards Wide-Area Contactless Wireless Sensing</title>
+      <link>https://zwang4.github.io/publication/sensys19/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/sensys19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Brush Movements for Chinese Calligraphy: A Computer Vision Based Approach</title>
+      <link>https://zwang4.github.io/publication/ijcai18/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ijcai18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Large-Scale RFID Positioning: A Low-cost, High-precision Solution Based on Compressive Sensing </title>
+      <link>https://zwang4.github.io/publication/percom18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/percom18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing High Performance Applications for the CELL Broadband Engine Processor</title>
+      <link>https://zwang4.github.io/publication/ednchina/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ednchina/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

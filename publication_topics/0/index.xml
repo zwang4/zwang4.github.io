@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 on Zheng Wang</title>
+    <link>https://zwang4.github.io/publication_topics/0/</link>
+    <description>Recent content in 0 on Zheng Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://zwang4.github.io/publication_topics/0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Characterizing Scalability of Sparse Matrix-Vector Multiplications on Phytium FT-2000&#43;</title>
+      <link>https://zwang4.github.io/publication/ijpp19/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ijpp19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Function Merging by Sequence Alignment</title>
+      <link>https://zwang4.github.io/publication/cgo19/</link>
+      <pubDate>Wed, 02 Jan 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/cgo19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proteus: Network-aware Web Browsing on Heterogeneous Mobile Systems</title>
+      <link>https://zwang4.github.io/publication/conext18/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/conext18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Sparse Matrix-Vector Multiplications on An ARMv8-based Many-Core Architecture</title>
+      <link>https://zwang4.github.io/publication/ijpp18/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ijpp18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Deep Learning Model Selection on Embedded Systems </title>
+      <link>https://zwang4.github.io/publication/lctes18/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/lctes18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto-tuning Streamed Applications on Intel Xeon Phi </title>
+      <link>https://zwang4.github.io/publication/ipdps18/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ipdps18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Optimization of Sparse Matrix-Vector Multiplication on Emerging Many-Core Architectures</title>
+      <link>https://zwang4.github.io/publication/hpcc18/</link>
+      <pubDate>Mon, 01 Jan 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/hpcc18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOCL: An Efficient OpenCL Implementation for the Matrix-2000 Architecture</title>
+      <link>https://zwang4.github.io/publication/cf18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/cf18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning in Compiler Optimisation</title>
+      <link>https://zwang4.github.io/publication/pieee18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/pieee18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Spark Application Throughput Via Memory Aware Task Co-location: A Mixture of Experts Approach</title>
+      <link>https://zwang4.github.io/publication/middleware17/</link>
+      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/middleware17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-end Deep Learning of Optimization Heuristics</title>
+      <link>https://zwang4.github.io/publication/pact17/</link>
+      <pubDate>Sat, 01 Jul 2017 11:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/pact17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing Benchmarks for Predictive Modeling</title>
+      <link>https://zwang4.github.io/publication/cgo17-1/</link>
+      <pubDate>Fri, 02 Jun 2017 12:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/cgo17-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimizing the cost of iterative compilation with active learning</title>
+      <link>https://zwang4.github.io/publication/cgo17-2/</link>
+      <pubDate>Fri, 02 Jun 2017 10:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/cgo17-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Power Cycling in Video on Demand Data Centres using Online Bayesian Prediction</title>
+      <link>https://zwang4.github.io/publication/icdcs17/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/icdcs17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimise Web Browsing on Heterogeneous Mobile Platforms: A Machine Learning Based Approach</title>
+      <link>https://zwang4.github.io/publication/infocom17/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/infocom17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ALEA: A Fine-grained Energy Profiling Tool</title>
+      <link>https://zwang4.github.io/publication/taco17/</link>
+      <pubDate>Tue, 28 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/taco17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Optimization for OpenCL Programs on Embedded Heterogeneous Systems</title>
+      <link>https://zwang4.github.io/publication/lctes17/</link>
+      <pubDate>Tue, 28 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/lctes17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power capping: what works, what does not</title>
+      <link>https://zwang4.github.io/publication/icpads15/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/icpads15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic and Portable Mapping of Data Parallel Programs to OpenCL for GPU-based Heterogeneous Systems</title>
+      <link>https://zwang4.github.io/publication/taco15/</link>
+      <pubDate>Sat, 28 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/taco15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Profile-Driven Parallelism Detection and Machine-Learning Based Mapping</title>
+      <link>https://zwang4.github.io/publication/taco14/</link>
+      <pubDate>Fri, 28 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/taco14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active learning accelerated automatic heuristic construction for parallel program mapping</title>
+      <link>https://zwang4.github.io/publication/pact14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/pact14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploitation of GPUs for the parallelisation of probably parallel legacy code</title>
+      <link>https://zwang4.github.io/publication/cc14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/cc14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Machine Learning to Partition Streaming Programs</title>
+      <link>https://zwang4.github.io/publication/taco13/</link>
+      <pubDate>Thu, 28 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/taco13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart, adaptive mapping of parallelism in the presence of external workload</title>
+      <link>https://zwang4.github.io/publication/cgo13-1/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/cgo13-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portable mapping of data parallel programs to OpenCL for heterogeneous systems</title>
+      <link>https://zwang4.github.io/publication/cgo13-2/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/cgo13-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Based Mapping of Data and Streaming Parallelism to Multi-cores </title>
+      <link>https://zwang4.github.io/publication/thesis/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partitioning streaming parallelism for multi-cores: a machine learning based approach</title>
+      <link>https://zwang4.github.io/publication/pact10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/pact10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Holistic Approach to Auto-Parallelization - Integrating Profile-Driven Parallelism Detection and Machine-Learning Based Mapping </title>
+      <link>https://zwang4.github.io/publication/pldi09/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/pldi09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping Parallelism to Multi-cores: A Machine Learning Based Approach </title>
+      <link>https://zwang4.github.io/publication/ppopp09/</link>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ppopp09/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
