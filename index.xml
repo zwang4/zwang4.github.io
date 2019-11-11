@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Optimizing Deep Learning Inference on Embedded Systems Through Adaptive Model Selection</title>
+      <link>https://zwang4.github.io/publication/tecs19/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tecs19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jointly Learning Entity and Relation Representations for Entity Alignment</title>
       <link>https://zwang4.github.io/publication/emnlp19/</link>
       <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://zwang4.github.io/publication/ispa18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evaluating Brush Movements for Chinese Calligraphy: A Computer Vision Based Approach</title>
-      <link>https://zwang4.github.io/publication/ijcai18/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/ijcai18/</guid>
       <description></description>
     </item>
     
