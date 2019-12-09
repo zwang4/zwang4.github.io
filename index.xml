@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Camel: Smart, Adaptive Energy Optimization for Mobile Web Interactions</title>
+      <link>https://zwang4.github.io/publication/infocom20/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/infocom20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optimizing Deep Learning Inference on Embedded Systems Through Adaptive Model Selection</title>
       <link>https://zwang4.github.io/publication/tecs19/</link>
       <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/publication/tops18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>To Compress, or Not to Compress: Characterizing Deep Learning Model Compression for Embedded Inference</title>
-      <link>https://zwang4.github.io/publication/ispa18/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/ispa18/</guid>
       <description></description>
     </item>
     
