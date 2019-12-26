@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Vectorization-Aware Loop Unrolling with Seed Forwarding</title>
+      <link>https://zwang4.github.io/publication/cc20/</link>
+      <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/cc20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Camel: Smart, Adaptive Energy Optimization for Mobile Web Interactions</title>
       <link>https://zwang4.github.io/publication/infocom20/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/publication/mobicom18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Video-based Attack for Android Pattern Lock</title>
-      <link>https://zwang4.github.io/publication/tops18/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/tops18/</guid>
       <description></description>
     </item>
     
