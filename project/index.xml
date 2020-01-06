@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zwang4.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Socially Responsible AI for Distributed Autonomous Systems</title>
+      <link>https://zwang4.github.io/project/whiterose/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/project/whiterose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CIDER: Crowd-based Intelligent Design of EnviRonment  </title>
+      <link>https://zwang4.github.io/project/cide/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/project/cide/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GEM: translational software for outbreak analysis </title>

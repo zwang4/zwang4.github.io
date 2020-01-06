@@ -13,7 +13,7 @@
     <item>
       <title>Vectorization-Aware Loop Unrolling with Seed Forwarding</title>
       <link>https://zwang4.github.io/publication/cc20/</link>
-      <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://zwang4.github.io/publication/cc20/</guid>
       <description></description>
@@ -22,9 +22,27 @@
     <item>
       <title>Camel: Smart, Adaptive Energy Optimization for Mobile Web Interactions</title>
       <link>https://zwang4.github.io/publication/infocom20/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://zwang4.github.io/publication/infocom20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socially Responsible AI for Distributed Autonomous Systems</title>
+      <link>https://zwang4.github.io/project/whiterose/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/project/whiterose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CIDER: Crowd-based Intelligent Design of EnviRonment  </title>
+      <link>https://zwang4.github.io/project/cide/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/project/cide/</guid>
       <description></description>
     </item>
     
@@ -124,24 +142,6 @@
       <pubDate>Wed, 11 Jul 2018 00:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/publication/ubicomp18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yet Another Text Captcha Solver: A Generative Adversarial Network Based Approach</title>
-      <link>https://zwang4.github.io/publication/ccs18/</link>
-      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/ccs18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CrossSense: Towards Cross-Site and Large-Scale WiFi Sensing </title>
-      <link>https://zwang4.github.io/publication/mobicom18/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/mobicom18/</guid>
       <description></description>
     </item>
     
