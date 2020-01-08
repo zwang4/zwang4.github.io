@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Using Generative Adversarial Networks to Break and Protect Text Captchas</title>
+      <link>https://zwang4.github.io/publication/tops20/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tops20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Vectorization-Aware Loop Unrolling with Seed Forwarding</title>
       <link>https://zwang4.github.io/publication/cc20/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/publication/conext18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SleepGuard: Capturing Rich Sleep Information using Smartwatch Sensing Data</title>
-      <link>https://zwang4.github.io/publication/ubicomp18/</link>
-      <pubDate>Wed, 11 Jul 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/ubicomp18/</guid>
       <description></description>
     </item>
     
