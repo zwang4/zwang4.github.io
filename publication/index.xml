@@ -13,6 +13,33 @@
     
     
     <item>
+      <title>Using Generative Adversarial Networks to Break and Protect Text Captchas</title>
+      <link>https://zwang4.github.io/publication/tops20/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tops20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vectorization-Aware Loop Unrolling with Seed Forwarding</title>
+      <link>https://zwang4.github.io/publication/cc20/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/cc20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camel: Smart, Adaptive Energy Optimization for Mobile Web Interactions</title>
+      <link>https://zwang4.github.io/publication/infocom20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/infocom20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optimizing Deep Learning Inference on Embedded Systems Through Adaptive Model Selection</title>
       <link>https://zwang4.github.io/publication/tecs19/</link>
       <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>

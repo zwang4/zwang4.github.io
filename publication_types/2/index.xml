@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zwang4.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using Generative Adversarial Networks to Break and Protect Text Captchas</title>
+      <link>https://zwang4.github.io/publication/tops20/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tops20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optimizing Deep Learning Inference on Embedded Systems Through Adaptive Model Selection</title>
