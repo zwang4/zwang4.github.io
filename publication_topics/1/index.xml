@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zwang4.github.io/publication_topics/1/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Optimizing Streaming Parallelism on Heterogeneous Many-Core Architectures</title>
-      <link>https://zwang4.github.io/publication/tpds20/</link>
-      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/tpds20/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Using Generative Adversarial Networks to Break and Protect Text Captchas</title>
