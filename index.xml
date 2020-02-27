@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Effective Function Merging in the SSA Form</title>
+      <link>https://zwang4.github.io/publication/pldi20/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/pldi20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Streaming Parallelism on Heterogeneous Many-Core Architectures</title>
+      <link>https://zwang4.github.io/publication/tpds20/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tpds20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Using Generative Adversarial Networks to Break and Protect Text Captchas</title>
       <link>https://zwang4.github.io/publication/tops20/</link>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/project/welcometrust/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploiting Code Diversity to Enhance Code Virtualization Protection</title>
-      <link>https://zwang4.github.io/publication/icpads18/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/icpads18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Proteus: Network-aware Web Browsing on Heterogeneous Mobile Systems</title>
-      <link>https://zwang4.github.io/publication/conext18/</link>
-      <pubDate>Fri, 10 Aug 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/conext18/</guid>
       <description></description>
     </item>
     
