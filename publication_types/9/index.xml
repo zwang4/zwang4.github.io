@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>9 on Zheng Wang</title>
+    <link>https://zwang4.github.io/publication_types/9/</link>
+    <description>Recent content in 9 on Zheng Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Fri, 01 Jul 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://zwang4.github.io/publication_types/9/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Machine Learning Based Mapping of Data and Streaming Parallelism to Multi-cores </title>
+      <link>https://zwang4.github.io/publication/thesis/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing High Performance Applications for the CELL Broadband Engine Processor</title>
+      <link>https://zwang4.github.io/publication/ednchina/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ednchina/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bug-detection on Zheng Wang</title>
+    <link>https://zwang4.github.io/tags/bug-detection/</link>
+    <description>Recent content in Bug-detection on Zheng Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://zwang4.github.io/tags/bug-detection/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Toward Easy Parallel Programming</title>
+      <link>https://zwang4.github.io/project/pattern/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/project/pattern/</guid>
+      <description>Funded by the The Royal Society International Collaboration Grant, PI.</description>
+    </item>
+    
+    <item>
+      <title>Software Bug Detection and Fix Generation by Learning from Large Code Examples</title>
+      <link>https://zwang4.github.io/project/bigcode/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/project/bigcode/</guid>
+      <description>Funded by the The Royal Society International Collaboration Grant, PI.</description>
+    </item>
+    
+  </channel>
+</rss>

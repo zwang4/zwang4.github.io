@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine learning on Zheng Wang</title>
+    <link>https://zwang4.github.io/tags/machine-learning/</link>
+    <description>Recent content in Machine learning on Zheng Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 25 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://zwang4.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CIDER: Crowd-based Intelligent Design of EnviRonment  </title>
+      <link>https://zwang4.github.io/project/cide/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/project/cide/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

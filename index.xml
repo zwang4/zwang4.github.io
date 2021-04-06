@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zheng Wang on Zheng Wang</title>
+    <link>https://zwang4.github.io/</link>
+    <description>Recent content in Zheng Wang on Zheng Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 17 Jul 2019 00:00:00 +0100</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Automated Conformance Testing for JavaScript Engines via Deep Compiler Fuzzing</title>
+      <link>https://zwang4.github.io/publication/pldi21/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/pldi21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LIME: Low-Cost and Incremental Learning for Dynamic Heterogeneous Information Networks</title>
+      <link>https://zwang4.github.io/publication/tc21/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CrossGR: Accurate and Low-cost Cross-target Gesture Recognitionusing Wi-Fi</title>
+      <link>https://zwang4.github.io/publication/ubicomp21/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ubicomp21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Graph-based Learning with Automated Data Collection for Code Vulnerability Detection</title>
+      <link>https://zwang4.github.io/publication/tifs20/</link>
+      <pubDate>Wed, 18 Nov 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tifs20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerate large-scale deep learning model inference for natural language processing</title>
+      <link>https://zwang4.github.io/project/air2/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/project/air2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Distributed Deep Learning Model Generation</title>
+      <link>https://zwang4.github.io/project/air1/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/project/air1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Translation of Data Parallel Programs for Heterogeneous Parallelism Through OpenMP Offloading</title>
+      <link>https://zwang4.github.io/publication/ijsc/</link>
+      <pubDate>Sat, 10 Oct 2020 11:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ijsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantics-aware Obfuscation Scheme Prediction for Binary</title>
+      <link>https://zwang4.github.io/publication/csj20-2y/</link>
+      <pubDate>Tue, 29 Sep 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/csj20-2y/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Context-Aware Code Comment Generation</title>
+      <link>https://zwang4.github.io/publication/emnlp20/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/emnlp20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Program Structure Modeling Through Multi-Relational Graph-based Learning</title>
+      <link>https://zwang4.github.io/publication/pact20/</link>
+      <pubDate>Mon, 06 Jul 2020 11:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/pact20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Easy Parallel Programming</title>
+      <link>https://zwang4.github.io/project/pattern/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/project/pattern/</guid>
+      <description>&lt;p&gt;Funded by the The Royal Society International Collaboration Grant, PI.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neighborhood Matching Network for Entity Alignment</title>
+      <link>https://zwang4.github.io/publication/acl20/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/acl20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compile-time Code Virtualization for Android Applications</title>
+      <link>https://zwang4.github.io/publication/csj20/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/csj20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective Function Merging in the SSA Form</title>
+      <link>https://zwang4.github.io/publication/pldi20/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/pldi20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Streaming Parallelism on Heterogeneous Many-Core Architectures</title>
+      <link>https://zwang4.github.io/publication/tpds20/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tpds20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

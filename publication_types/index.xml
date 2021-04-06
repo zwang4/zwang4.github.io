@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types on Zheng Wang</title>
+    <link>https://zwang4.github.io/publication_types/</link>
+    <description>Recent content in Publication_types on Zheng Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://zwang4.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1</title>
+      <link>https://zwang4.github.io/publication_types/1/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication_types/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>https://zwang4.github.io/publication_types/2/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>8</title>
+      <link>https://zwang4.github.io/publication_types/8/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication_types/8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>9</title>
+      <link>https://zwang4.github.io/publication_types/9/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication_types/9/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

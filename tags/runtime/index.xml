@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Runtime on Zheng Wang</title>
+    <link>https://zwang4.github.io/tags/runtime/</link>
+    <description>Recent content in Runtime on Zheng Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://zwang4.github.io/tags/runtime/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Energy and Performance Optimisation for Mobile Systems</title>
+      <link>https://zwang4.github.io/project/icase/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/project/icase/</guid>
+      <description>A PhD studentship funded by the EPSRC and ARM. Will Wolff is working on this project.</description>
+    </item>
+    
+    <item>
+      <title>Energy and Performance Optimisaiton on Mobile</title>
+      <link>https://zwang4.github.io/project/fstsmall/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/project/fstsmall/</guid>
+      <description>Small research grant funded by the Lancaster University.</description>
+    </item>
+    
+    <item>
+      <title>Energy-efficient Optimisation for Data Centres</title>
+      <link>https://zwang4.github.io/project/small/</link>
+      <pubDate>Fri, 27 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/project/small/</guid>
+      <description>Funded by the Lancaster University</description>
+    </item>
+    
+  </channel>
+</rss>

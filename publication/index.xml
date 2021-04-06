@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Zheng Wang</title>
+    <link>https://zwang4.github.io/publication/</link>
+    <description>Recent content in Publications on Zheng Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://zwang4.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automated Conformance Testing for JavaScript Engines via Deep Compiler Fuzzing</title>
+      <link>https://zwang4.github.io/publication/pldi21/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/pldi21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LIME: Low-Cost and Incremental Learning for Dynamic Heterogeneous Information Networks</title>
+      <link>https://zwang4.github.io/publication/tc21/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CrossGR: Accurate and Low-cost Cross-target Gesture Recognitionusing Wi-Fi</title>
+      <link>https://zwang4.github.io/publication/ubicomp21/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ubicomp21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Graph-based Learning with Automated Data Collection for Code Vulnerability Detection</title>
+      <link>https://zwang4.github.io/publication/tifs20/</link>
+      <pubDate>Wed, 18 Nov 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tifs20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Translation of Data Parallel Programs for Heterogeneous Parallelism Through OpenMP Offloading</title>
+      <link>https://zwang4.github.io/publication/ijsc/</link>
+      <pubDate>Sat, 10 Oct 2020 11:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ijsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantics-aware Obfuscation Scheme Prediction for Binary</title>
+      <link>https://zwang4.github.io/publication/csj20-2y/</link>
+      <pubDate>Tue, 29 Sep 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/csj20-2y/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Context-Aware Code Comment Generation</title>
+      <link>https://zwang4.github.io/publication/emnlp20/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/emnlp20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Program Structure Modeling Through Multi-Relational Graph-based Learning</title>
+      <link>https://zwang4.github.io/publication/pact20/</link>
+      <pubDate>Mon, 06 Jul 2020 11:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/pact20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neighborhood Matching Network for Entity Alignment</title>
+      <link>https://zwang4.github.io/publication/acl20/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/acl20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compile-time Code Virtualization for Android Applications</title>
+      <link>https://zwang4.github.io/publication/csj20/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/csj20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective Function Merging in the SSA Form</title>
+      <link>https://zwang4.github.io/publication/pldi20/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/pldi20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Streaming Parallelism on Heterogeneous Many-Core Architectures</title>
+      <link>https://zwang4.github.io/publication/tpds20/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tpds20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing GPU Memory Transactions for Convolution Operations</title>
+      <link>https://zwang4.github.io/publication/cluster20/</link>
+      <pubDate>Thu, 06 Feb 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/cluster20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Programming Models for Heterogeneous Many-Cores : A Comprehensive Survey</title>
+      <link>https://zwang4.github.io/publication/thpc/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/thpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Generative Adversarial Networks to Break and Protect Text Captchas</title>
+      <link>https://zwang4.github.io/publication/tops20/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tops20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vectorization-Aware Loop Unrolling with Seed Forwarding</title>
+      <link>https://zwang4.github.io/publication/cc20/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/cc20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camel: Smart, Adaptive Energy Optimization for Mobile Web Interactions</title>
+      <link>https://zwang4.github.io/publication/infocom20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/infocom20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Deep Learning Inference on Embedded Systems Through Adaptive Model Selection</title>
+      <link>https://zwang4.github.io/publication/tecs19/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tecs19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jointly Learning Entity and Relation Representations for Entity Alignment</title>
+      <link>https://zwang4.github.io/publication/emnlp19/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/emnlp19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WideSee: Towards Wide-Area Contactless Wireless Sensing</title>
+      <link>https://zwang4.github.io/publication/sensys19/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/sensys19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing Scalability of Sparse Matrix-Vector Multiplications on Phytium FT-2000&#43;</title>
+      <link>https://zwang4.github.io/publication/ijpp19/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ijpp19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs</title>
+      <link>https://zwang4.github.io/publication/ijcai19/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ijcai19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Function Merging by Sequence Alignment</title>
+      <link>https://zwang4.github.io/publication/cgo19/</link>
+      <pubDate>Wed, 02 Jan 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/cgo19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lattice CNNs for Matching Based Chinese Question Answering</title>
+      <link>https://zwang4.github.io/publication/aaai19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/aaai19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Code Diversity to Enhance Code Virtualization Protection</title>
+      <link>https://zwang4.github.io/publication/icpads18/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/icpads18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proteus: Network-aware Web Browsing on Heterogeneous Mobile Systems</title>
+      <link>https://zwang4.github.io/publication/conext18/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/conext18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SleepGuard: Capturing Rich Sleep Information using Smartwatch Sensing Data</title>
+      <link>https://zwang4.github.io/publication/ubicomp18/</link>
+      <pubDate>Wed, 11 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ubicomp18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yet Another Text Captcha Solver: A Generative Adversarial Network Based Approach</title>
+      <link>https://zwang4.github.io/publication/ccs18/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ccs18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CrossSense: Towards Cross-Site and Large-Scale WiFi Sensing </title>
+      <link>https://zwang4.github.io/publication/mobicom18/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/mobicom18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Video-based Attack for Android Pattern Lock</title>
+      <link>https://zwang4.github.io/publication/tops18/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tops18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Compress, or Not to Compress: Characterizing Deep Learning Model Compression for Embedded Inference</title>
+      <link>https://zwang4.github.io/publication/ispa18/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ispa18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Brush Movements for Chinese Calligraphy: A Computer Vision Based Approach</title>
+      <link>https://zwang4.github.io/publication/ijcai18/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ijcai18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Sparse Matrix-Vector Multiplications on An ARMv8-based Many-Core Architecture</title>
+      <link>https://zwang4.github.io/publication/ijpp18/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ijpp18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marrying up Regular Expressions with Neural Networks: A Case Study for Spoken Language Understanding</title>
+      <link>https://zwang4.github.io/publication/acl18/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/acl18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Deep Learning Model Selection on Embedded Systems </title>
+      <link>https://zwang4.github.io/publication/lctes18/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/lctes18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto-tuning Streamed Applications on Intel Xeon Phi </title>
+      <link>https://zwang4.github.io/publication/ipdps18/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ipdps18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scale Up Event Extraction Learning via Automatic Training Data Generation </title>
+      <link>https://zwang4.github.io/publication/aaai18/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/aaai18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Find Me A Safe Zone: A Countermeasure for Channel State Information Based Attacks</title>
+      <link>https://zwang4.github.io/publication/csj18--2/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/csj18--2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Optimization of Sparse Matrix-Vector Multiplication on Emerging Many-Core Architectures</title>
+      <link>https://zwang4.github.io/publication/hpcc18/</link>
+      <pubDate>Mon, 01 Jan 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/hpcc18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhance virtual-machine-based code obfuscation security through dynamic bytecode scheduling</title>
+      <link>https://zwang4.github.io/publication/csj18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/csj18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOCL: An Efficient OpenCL Implementation for the Matrix-2000 Architecture</title>
+      <link>https://zwang4.github.io/publication/cf18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/cf18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning in Compiler Optimisation</title>
+      <link>https://zwang4.github.io/publication/pieee18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/pieee18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Large-Scale RFID Positioning: A Low-cost, High-precision Solution Based on Compressive Sensing </title>
+      <link>https://zwang4.github.io/publication/percom18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/percom18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Spark Application Throughput Via Memory Aware Task Co-location: A Mixture of Experts Approach</title>
+      <link>https://zwang4.github.io/publication/middleware17/</link>
+      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/middleware17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cracking Android Pattern Lock in Five Attempts</title>
+      <link>https://zwang4.github.io/publication/ndss17/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ndss17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-end Deep Learning of Optimization Heuristics</title>
+      <link>https://zwang4.github.io/publication/pact17/</link>
+      <pubDate>Sat, 01 Jul 2017 11:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/pact17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing Benchmarks for Predictive Modeling</title>
+      <link>https://zwang4.github.io/publication/cgo17-1/</link>
+      <pubDate>Fri, 02 Jun 2017 12:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/cgo17-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimizing the cost of iterative compilation with active learning</title>
+      <link>https://zwang4.github.io/publication/cgo17-2/</link>
+      <pubDate>Fri, 02 Jun 2017 10:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/cgo17-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Power Cycling in Video on Demand Data Centres using Online Bayesian Prediction</title>
+      <link>https://zwang4.github.io/publication/icdcs17/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/icdcs17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimise Web Browsing on Heterogeneous Mobile Platforms: A Machine Learning Based Approach</title>
+      <link>https://zwang4.github.io/publication/infocom17/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/infocom17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning with Noise: Enhance Distantly Supervised Relation Extraction with Dynamic Transition Matrix</title>
+      <link>https://zwang4.github.io/publication/acl17/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/acl17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ALEA: A Fine-grained Energy Profiling Tool</title>
+      <link>https://zwang4.github.io/publication/taco17/</link>
+      <pubDate>Tue, 28 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/taco17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Optimization for OpenCL Programs on Embedded Heterogeneous Systems</title>
+      <link>https://zwang4.github.io/publication/lctes17/</link>
+      <pubDate>Tue, 28 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/lctes17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AppIS: Protect Android Apps Against Runtime Repackaging Attacks</title>
+      <link>https://zwang4.github.io/publication/icpads17/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/icpads17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEEAD: A Semantic-based Approach for Automatic Binary Code De-obfuscation</title>
+      <link>https://zwang4.github.io/publication/trustcom17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/trustcom17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Dynamic Scheduling for VM-Based Code Obfuscation</title>
+      <link>https://zwang4.github.io/publication/truscom16/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/truscom16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power capping: what works, what does not</title>
+      <link>https://zwang4.github.io/publication/icpads15/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/icpads15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic and Portable Mapping of Data Parallel Programs to OpenCL for GPU-based Heterogeneous Systems</title>
+      <link>https://zwang4.github.io/publication/taco15/</link>
+      <pubDate>Sat, 28 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/taco15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent heuristic construction with active learning</title>
+      <link>https://zwang4.github.io/publication/cpc15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/cpc15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast automatic heuristic construction using active learning</title>
+      <link>https://zwang4.github.io/publication/lcpc14/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/lcpc14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Profile-Driven Parallelism Detection and Machine-Learning Based Mapping</title>
+      <link>https://zwang4.github.io/publication/taco14/</link>
+      <pubDate>Fri, 28 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/taco14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active learning accelerated automatic heuristic construction for parallel program mapping</title>
+      <link>https://zwang4.github.io/publication/pact14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/pact14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploitation of GPUs for the parallelisation of probably parallel legacy code</title>
+      <link>https://zwang4.github.io/publication/cc14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/cc14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart multi-task scheduling for OpenCL programs on CPU/GPU heterogeneous platforms</title>
+      <link>https://zwang4.github.io/publication/hipc14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/hipc14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Machine Learning to Partition Streaming Programs</title>
+      <link>https://zwang4.github.io/publication/taco13/</link>
+      <pubDate>Thu, 28 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/taco13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart, adaptive mapping of parallelism in the presence of external workload</title>
+      <link>https://zwang4.github.io/publication/cgo13-1/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/cgo13-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portable mapping of data parallel programs to OpenCL for heterogeneous systems</title>
+      <link>https://zwang4.github.io/publication/cgo13-2/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/cgo13-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Based Mapping of Data and Streaming Parallelism to Multi-cores </title>
+      <link>https://zwang4.github.io/publication/thesis/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A workload-aware mapping approach for data-parallel programs</title>
+      <link>https://zwang4.github.io/publication/hipeac11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/hipeac11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partitioning streaming parallelism for multi-cores: a machine learning based approach</title>
+      <link>https://zwang4.github.io/publication/pact10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/pact10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Holistic Approach to Auto-Parallelization - Integrating Profile-Driven Parallelism Detection and Machine-Learning Based Mapping </title>
+      <link>https://zwang4.github.io/publication/pldi09/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/pldi09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping Parallelism to Multi-cores: A Machine Learning Based Approach </title>
+      <link>https://zwang4.github.io/publication/ppopp09/</link>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ppopp09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and Compiler of Compiling a Program</title>
+      <link>https://zwang4.github.io/publication/patent1/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/patent1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method of Managing Data Movement and Cell Broadband Engine Processor Using the Same SPE</title>
+      <link>https://zwang4.github.io/publication/patent2/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/patent2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overlay Instruction Accessing Unit and Overlay Instruction Accessing Method</title>
+      <link>https://zwang4.github.io/publication/patent3/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/patent3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing High Performance Applications for the CELL Broadband Engine Processor</title>
+      <link>https://zwang4.github.io/publication/ednchina/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ednchina/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
