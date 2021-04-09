@@ -12,6 +12,15 @@
     
     <item>
       <title>Automated Conformance Testing for JavaScript Engines via Deep Compiler Fuzzing</title>
+      <link>https://zwang4.github.io/publication/lctes21/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/lctes21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Conformance Testing for JavaScript Engines via Deep Compiler Fuzzing</title>
       <link>https://zwang4.github.io/publication/pldi21/</link>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
       
@@ -134,15 +143,6 @@
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://zwang4.github.io/publication/pldi20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimizing Streaming Parallelism on Heterogeneous Many-Core Architectures</title>
-      <link>https://zwang4.github.io/publication/tpds20/</link>
-      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/tpds20/</guid>
       <description></description>
     </item>
     
