@@ -1,0 +1,18 @@
+s {
+   font-weight: bold;
+   font-style: italic;
+   color: #C39;
+}
+
+del {
+   font-weight: bold;
+   font-style: italic;
+   color: #C39;
+   text-decoration: none;
+}
+
+.pub-list-tiem .pubvenue {
+	color: #C39;
+	font-weight: bold;
+}
+
