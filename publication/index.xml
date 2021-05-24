@@ -130,6 +130,15 @@
     </item>
     
     <item>
+      <title>Optimizing Streaming Parallelism on Heterogeneous Many-Core Architectures</title>
+      <link>https://zwang4.github.io/publication/tpds21-1/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tpds21-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optimizing GPU Memory Transactions for Convolution Operations</title>
       <link>https://zwang4.github.io/publication/cluster20/</link>
       <pubDate>Thu, 06 Feb 2020 11:00:00 +0000</pubDate>
