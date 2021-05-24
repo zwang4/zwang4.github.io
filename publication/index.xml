@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Optimizing Streaming Parallelism on Heterogeneous Many-Core Architectures</title>
+      <link>https://zwang4.github.io/publication/tpds21-1/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tpds21-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>HyFM: Function Merging for Free</title>
       <link>https://zwang4.github.io/publication/lctes21/</link>
       <pubDate>Fri, 09 Apr 2021 00:00:00 +0100</pubDate>
@@ -126,15 +135,6 @@
       <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://zwang4.github.io/publication/tpds20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimizing Streaming Parallelism on Heterogeneous Many-Core Architectures</title>
-      <link>https://zwang4.github.io/publication/tpds21-1/</link>
-      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/tpds21-1/</guid>
       <description></description>
     </item>
     
