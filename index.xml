@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Online Power Management for Multi-cores: A Reinforcement Learning Based Approach</title>
+      <link>https://zwang4.github.io/publication/tpds21-2/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tpds21-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optimizing Depthwise Separable Convolution Operations on GPUs</title>
       <link>https://zwang4.github.io/publication/tpds21-1/</link>
       <pubDate>Mon, 24 May 2021 00:00:00 +0100</pubDate>
@@ -134,15 +143,6 @@
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/publication/acl20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Compile-time Code Virtualization for Android Applications</title>
-      <link>https://zwang4.github.io/publication/csj20/</link>
-      <pubDate>Mon, 30 Mar 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/csj20/</guid>
       <description></description>
     </item>
     
