@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://zwang4.github.io/publication/sc21/</loc>
+      <lastmod>2021-06-22T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://zwang4.github.io/publication/tpds21-2/</loc>
       <lastmod>2021-06-03T00:00:00+01:00</lastmod>
     </url>
@@ -249,7 +258,7 @@
     <url>
     
       <loc>https://zwang4.github.io/publication/sensys19/</loc>
-      <lastmod>2019-07-13T00:00:00+00:00</lastmod>
+      <lastmod>2019-07-13T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -870,18 +879,8 @@
     
     <url>
     
-      <loc>https://zwang4.github.io/publication_types/1/</loc>
-      <lastmod>2021-04-09T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://zwang4.github.io/publication_topics/1/</loc>
-      <lastmod>2020-11-18T11:00:00+00:00</lastmod>
+      <lastmod>2021-06-22T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -890,8 +889,8 @@
     
     <url>
     
-      <loc>https://zwang4.github.io/publication_types/2/</loc>
-      <lastmod>2021-06-03T00:00:00+01:00</lastmod>
+      <loc>https://zwang4.github.io/publication_types/1/</loc>
+      <lastmod>2021-06-22T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -910,8 +909,18 @@
     
     <url>
     
+      <loc>https://zwang4.github.io/publication_types/2/</loc>
+      <lastmod>2021-06-03T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://zwang4.github.io/publication_topics/3/</loc>
-      <lastmod>2019-07-13T00:00:00+00:00</lastmod>
+      <lastmod>2019-07-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1060,7 +1069,7 @@
     <url>
     
       <loc>https://zwang4.github.io/publication_types/</loc>
-      <lastmod>2021-04-09T00:00:00+01:00</lastmod>
+      <lastmod>2021-06-22T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

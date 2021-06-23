@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>LibShalom: Optimizing Small and Irregular-shaped Matrix Multiplications on ARMv8 Multi-Cores</title>
+      <link>https://zwang4.github.io/publication/sc21/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/sc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Online Power Management for Multi-cores: A Reinforcement Learning Based Approach</title>
       <link>https://zwang4.github.io/publication/tpds21-2/</link>
       <pubDate>Thu, 03 Jun 2021 00:00:00 +0100</pubDate>
@@ -135,15 +144,6 @@
       <guid>https://zwang4.github.io/project/pattern/</guid>
       <description>&lt;p&gt;Funded by the The Royal Society International Collaboration Grant, PI.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Neighborhood Matching Network for Entity Alignment</title>
-      <link>https://zwang4.github.io/publication/acl20/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/acl20/</guid>
-      <description></description>
     </item>
     
   </channel>

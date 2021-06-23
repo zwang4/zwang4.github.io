@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>LibShalom: Optimizing Small and Irregular-shaped Matrix Multiplications on ARMv8 Multi-Cores</title>
+      <link>https://zwang4.github.io/publication/sc21/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/sc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Online Power Management for Multi-cores: A Reinforcement Learning Based Approach</title>
       <link>https://zwang4.github.io/publication/tpds21-2/</link>
       <pubDate>Thu, 03 Jun 2021 00:00:00 +0100</pubDate>
@@ -213,7 +222,7 @@
     <item>
       <title>WideSee: Towards Wide-Area Contactless Wireless Sensing</title>
       <link>https://zwang4.github.io/publication/sensys19/</link>
-      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/publication/sensys19/</guid>
       <description></description>
