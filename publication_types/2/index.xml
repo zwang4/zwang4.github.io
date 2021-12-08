@@ -7,10 +7,100 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Oct 2021 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://zwang4.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adaptive Computation Offloading for Mobile Augmented Reality</title>
+      <link>https://zwang4.github.io/publication/ubicomp22/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ubicomp22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lifelong Property Price Prediction: A Case Study for the Toronto Real Estate Market</title>
+      <link>https://zwang4.github.io/publication/tkde/</link>
+      <pubDate>Sat, 11 Sep 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tkde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Power Management for Multi-cores: A Reinforcement Learning Based Approach</title>
+      <link>https://zwang4.github.io/publication/tpds21-2/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tpds21-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Depthwise Separable Convolution Operations on GPUs</title>
+      <link>https://zwang4.github.io/publication/tpds21-1/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tpds21-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LIME: Low-Cost and Incremental Learning for Dynamic Heterogeneous Information Networks</title>
+      <link>https://zwang4.github.io/publication/tc21/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CrossGR: Accurate and Low-cost Cross-target Gesture Recognitionusing Wi-Fi</title>
+      <link>https://zwang4.github.io/publication/ubicomp21/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ubicomp21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Graph-based Learning with Automated Data Collection for Code Vulnerability Detection</title>
+      <link>https://zwang4.github.io/publication/tifs20/</link>
+      <pubDate>Wed, 18 Nov 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tifs20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Translation of Data Parallel Programs for Heterogeneous Parallelism Through OpenMP Offloading</title>
+      <link>https://zwang4.github.io/publication/ijsc/</link>
+      <pubDate>Sat, 10 Oct 2020 11:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ijsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantics-aware Obfuscation Scheme Prediction for Binary</title>
+      <link>https://zwang4.github.io/publication/csj20-2y/</link>
+      <pubDate>Tue, 29 Sep 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/csj20-2y/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compile-time Code Virtualization for Android Applications</title>
+      <link>https://zwang4.github.io/publication/csj20/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/csj20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optimizing Streaming Parallelism on Heterogeneous Many-Core Architectures</title>
@@ -18,6 +108,15 @@
       <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://zwang4.github.io/publication/tpds20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Programming Models for Heterogeneous Many-Cores : A Comprehensive Survey</title>
+      <link>https://zwang4.github.io/publication/thpc/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/thpc/</guid>
       <description></description>
     </item>
     

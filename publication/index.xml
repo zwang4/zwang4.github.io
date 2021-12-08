@@ -13,6 +13,177 @@
     
     
     <item>
+      <title>Adaptive Computation Offloading for Mobile Augmented Reality</title>
+      <link>https://zwang4.github.io/publication/ubicomp22/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ubicomp22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lifelong Property Price Prediction: A Case Study for the Toronto Real Estate Market</title>
+      <link>https://zwang4.github.io/publication/tkde/</link>
+      <pubDate>Sat, 11 Sep 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tkde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Sparse Matrix Multiplications for Graph Neural Networks</title>
+      <link>https://zwang4.github.io/publication/lcpc21/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/lcpc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RISE: Robust Wireless Sensing using Probabilistic and Statistical Assessments</title>
+      <link>https://zwang4.github.io/publication/mobicom21/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/mobicom21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Barrier Synchronization on ARMv8 Many-Core Architectures</title>
+      <link>https://zwang4.github.io/publication/cluster21/</link>
+      <pubDate>Tue, 06 Jul 2021 11:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/cluster21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LibShalom: Optimizing Small and Irregular-shaped Matrix Multiplications on ARMv8 Multi-Cores</title>
+      <link>https://zwang4.github.io/publication/sc21/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/sc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Power Management for Multi-cores: A Reinforcement Learning Based Approach</title>
+      <link>https://zwang4.github.io/publication/tpds21-2/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tpds21-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Depthwise Separable Convolution Operations on GPUs</title>
+      <link>https://zwang4.github.io/publication/tpds21-1/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tpds21-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HyFM: Function Merging for Free</title>
+      <link>https://zwang4.github.io/publication/lctes21/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/lctes21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Conformance Testing for JavaScript Engines via Deep Compiler Fuzzing</title>
+      <link>https://zwang4.github.io/publication/pldi21/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/pldi21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LIME: Low-Cost and Incremental Learning for Dynamic Heterogeneous Information Networks</title>
+      <link>https://zwang4.github.io/publication/tc21/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CrossGR: Accurate and Low-cost Cross-target Gesture Recognitionusing Wi-Fi</title>
+      <link>https://zwang4.github.io/publication/ubicomp21/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ubicomp21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Graph-based Learning with Automated Data Collection for Code Vulnerability Detection</title>
+      <link>https://zwang4.github.io/publication/tifs20/</link>
+      <pubDate>Wed, 18 Nov 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tifs20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Translation of Data Parallel Programs for Heterogeneous Parallelism Through OpenMP Offloading</title>
+      <link>https://zwang4.github.io/publication/ijsc/</link>
+      <pubDate>Sat, 10 Oct 2020 11:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ijsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantics-aware Obfuscation Scheme Prediction for Binary</title>
+      <link>https://zwang4.github.io/publication/csj20-2y/</link>
+      <pubDate>Tue, 29 Sep 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/csj20-2y/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Context-Aware Code Comment Generation</title>
+      <link>https://zwang4.github.io/publication/emnlp20/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/emnlp20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Program Structure Modeling Through Multi-Relational Graph-based Learning</title>
+      <link>https://zwang4.github.io/publication/pact20/</link>
+      <pubDate>Mon, 06 Jul 2020 11:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/pact20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neighborhood Matching Network for Entity Alignment</title>
+      <link>https://zwang4.github.io/publication/acl20/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/acl20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compile-time Code Virtualization for Android Applications</title>
+      <link>https://zwang4.github.io/publication/csj20/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/csj20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Effective Function Merging in the SSA Form</title>
       <link>https://zwang4.github.io/publication/pldi20/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
@@ -27,6 +198,24 @@
       <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://zwang4.github.io/publication/tpds20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing GPU Memory Transactions for Convolution Operations</title>
+      <link>https://zwang4.github.io/publication/cluster20/</link>
+      <pubDate>Thu, 06 Feb 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/cluster20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Programming Models for Heterogeneous Many-Cores : A Comprehensive Survey</title>
+      <link>https://zwang4.github.io/publication/thpc/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/thpc/</guid>
       <description></description>
     </item>
     
@@ -78,7 +267,7 @@
     <item>
       <title>WideSee: Towards Wide-Area Contactless Wireless Sensing</title>
       <link>https://zwang4.github.io/publication/sensys19/</link>
-      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/publication/sensys19/</guid>
       <description></description>

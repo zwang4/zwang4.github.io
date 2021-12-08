@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sat, 28 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Oct 2021 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://zwang4.github.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Accelerating DNNs on GPUs</title>
+      <link>https://zwang4.github.io/project/fb/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/project/fb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerate large-scale deep learning model inference for natural language processing</title>
+      <link>https://zwang4.github.io/project/air2/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/project/air2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Distributed Deep Learning Model Generation</title>
+      <link>https://zwang4.github.io/project/air1/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/project/air1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Socially Responsible AI for Distributed Autonomous Systems</title>

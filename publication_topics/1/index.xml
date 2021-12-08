@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2020 11:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zwang4.github.io/publication_topics/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Combining Graph-based Learning with Automated Data Collection for Code Vulnerability Detection</title>
+      <link>https://zwang4.github.io/publication/tifs20/</link>
+      <pubDate>Wed, 18 Nov 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tifs20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantics-aware Obfuscation Scheme Prediction for Binary</title>
+      <link>https://zwang4.github.io/publication/csj20-2y/</link>
+      <pubDate>Tue, 29 Sep 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/csj20-2y/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compile-time Code Virtualization for Android Applications</title>
+      <link>https://zwang4.github.io/publication/csj20/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/csj20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Using Generative Adversarial Networks to Break and Protect Text Captchas</title>

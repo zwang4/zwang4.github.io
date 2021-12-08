@@ -11,137 +11,137 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Effective Function Merging in the SSA Form</title>
-      <link>https://zwang4.github.io/publication/pldi20/</link>
-      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <title>Adaptive Computation Offloading for Mobile Augmented Reality</title>
+      <link>https://zwang4.github.io/publication/ubicomp22/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://zwang4.github.io/publication/pldi20/</guid>
+      <guid>https://zwang4.github.io/publication/ubicomp22/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Optimizing Streaming Parallelism on Heterogeneous Many-Core Architectures</title>
-      <link>https://zwang4.github.io/publication/tpds20/</link>
-      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      <title>Accelerating DNNs on GPUs</title>
+      <link>https://zwang4.github.io/project/fb/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://zwang4.github.io/publication/tpds20/</guid>
+      <guid>https://zwang4.github.io/project/fb/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Using Generative Adversarial Networks to Break and Protect Text Captchas</title>
-      <link>https://zwang4.github.io/publication/tops20/</link>
-      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Lifelong Property Price Prediction: A Case Study for the Toronto Real Estate Market</title>
+      <link>https://zwang4.github.io/publication/tkde/</link>
+      <pubDate>Sat, 11 Sep 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://zwang4.github.io/publication/tops20/</guid>
+      <guid>https://zwang4.github.io/publication/tkde/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Vectorization-Aware Loop Unrolling with Seed Forwarding</title>
-      <link>https://zwang4.github.io/publication/cc20/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Optimizing Sparse Matrix Multiplications for Graph Neural Networks</title>
+      <link>https://zwang4.github.io/publication/lcpc21/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://zwang4.github.io/publication/cc20/</guid>
+      <guid>https://zwang4.github.io/publication/lcpc21/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Camel: Smart, Adaptive Energy Optimization for Mobile Web Interactions</title>
-      <link>https://zwang4.github.io/publication/infocom20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <title>RISE: Robust Wireless Sensing using Probabilistic and Statistical Assessments</title>
+      <link>https://zwang4.github.io/publication/mobicom21/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://zwang4.github.io/publication/infocom20/</guid>
+      <guid>https://zwang4.github.io/publication/mobicom21/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Socially Responsible AI for Distributed Autonomous Systems</title>
-      <link>https://zwang4.github.io/project/whiterose/</link>
-      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      <title>Optimizing Barrier Synchronization on ARMv8 Many-Core Architectures</title>
+      <link>https://zwang4.github.io/publication/cluster21/</link>
+      <pubDate>Tue, 06 Jul 2021 11:00:00 +0100</pubDate>
       
-      <guid>https://zwang4.github.io/project/whiterose/</guid>
+      <guid>https://zwang4.github.io/publication/cluster21/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CIDER: Crowd-based Intelligent Design of EnviRonment  </title>
-      <link>https://zwang4.github.io/project/cide/</link>
-      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      <title>LibShalom: Optimizing Small and Irregular-shaped Matrix Multiplications on ARMv8 Multi-Cores</title>
+      <link>https://zwang4.github.io/publication/sc21/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://zwang4.github.io/project/cide/</guid>
+      <guid>https://zwang4.github.io/publication/sc21/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Optimizing Deep Learning Inference on Embedded Systems Through Adaptive Model Selection</title>
-      <link>https://zwang4.github.io/publication/tecs19/</link>
-      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      <title>Online Power Management for Multi-cores: A Reinforcement Learning Based Approach</title>
+      <link>https://zwang4.github.io/publication/tpds21-2/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://zwang4.github.io/publication/tecs19/</guid>
+      <guid>https://zwang4.github.io/publication/tpds21-2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jointly Learning Entity and Relation Representations for Entity Alignment</title>
-      <link>https://zwang4.github.io/publication/emnlp19/</link>
-      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      <title>Optimizing Depthwise Separable Convolution Operations on GPUs</title>
+      <link>https://zwang4.github.io/publication/tpds21-1/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://zwang4.github.io/publication/emnlp19/</guid>
+      <guid>https://zwang4.github.io/publication/tpds21-1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>WideSee: Towards Wide-Area Contactless Wireless Sensing</title>
-      <link>https://zwang4.github.io/publication/sensys19/</link>
-      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      <title>HyFM: Function Merging for Free</title>
+      <link>https://zwang4.github.io/publication/lctes21/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://zwang4.github.io/publication/sensys19/</guid>
+      <guid>https://zwang4.github.io/publication/lctes21/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Characterizing Scalability of Sparse Matrix-Vector Multiplications on Phytium FT-2000&#43;</title>
-      <link>https://zwang4.github.io/publication/ijpp19/</link>
-      <pubDate>Sun, 07 Jul 2019 00:00:00 +0100</pubDate>
+      <title>Automated Conformance Testing for JavaScript Engines via Deep Compiler Fuzzing</title>
+      <link>https://zwang4.github.io/publication/pldi21/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://zwang4.github.io/publication/ijpp19/</guid>
+      <guid>https://zwang4.github.io/publication/pldi21/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs</title>
-      <link>https://zwang4.github.io/publication/ijcai19/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      <title>LIME: Low-Cost and Incremental Learning for Dynamic Heterogeneous Information Networks</title>
+      <link>https://zwang4.github.io/publication/tc21/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://zwang4.github.io/publication/ijcai19/</guid>
+      <guid>https://zwang4.github.io/publication/tc21/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Function Merging by Sequence Alignment</title>
-      <link>https://zwang4.github.io/publication/cgo19/</link>
-      <pubDate>Wed, 02 Jan 2019 12:00:00 +0000</pubDate>
+      <title>CrossGR: Accurate and Low-cost Cross-target Gesture Recognitionusing Wi-Fi</title>
+      <link>https://zwang4.github.io/publication/ubicomp21/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://zwang4.github.io/publication/cgo19/</guid>
+      <guid>https://zwang4.github.io/publication/ubicomp21/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Lattice CNNs for Matching Based Chinese Question Answering</title>
-      <link>https://zwang4.github.io/publication/aaai19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Combining Graph-based Learning with Automated Data Collection for Code Vulnerability Detection</title>
+      <link>https://zwang4.github.io/publication/tifs20/</link>
+      <pubDate>Wed, 18 Nov 2020 11:00:00 +0000</pubDate>
       
-      <guid>https://zwang4.github.io/publication/aaai19/</guid>
+      <guid>https://zwang4.github.io/publication/tifs20/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>GEM: translational software for outbreak analysis </title>
-      <link>https://zwang4.github.io/project/welcometrust/</link>
-      <pubDate>Thu, 25 Oct 2018 00:00:00 +0100</pubDate>
+      <title>Accelerate large-scale deep learning model inference for natural language processing</title>
+      <link>https://zwang4.github.io/project/air2/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zwang4.github.io/project/welcometrust/</guid>
+      <guid>https://zwang4.github.io/project/air2/</guid>
       <description></description>
     </item>
     

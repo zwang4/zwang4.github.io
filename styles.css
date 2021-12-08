@@ -18,10 +18,21 @@
   box-sizing: border-box;
 }
 
-.row:after,
 .row:before {
   content: " ";
   display: table;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.column {
+  float: left;
+  padding: 1px;
 }
 
 html {
