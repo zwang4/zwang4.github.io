@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sat, 11 Sep 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zwang4.github.io/publication_topics/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reinforcement Learning-based Dialogue Guided Event Extraction to Exploit Argument Relations</title>
+      <link>https://zwang4.github.io/publication/taslp21/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/taslp21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lifelong Property Price Prediction: A Case Study for the Toronto Real Estate Market</title>
