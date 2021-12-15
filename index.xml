@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Dynamic GPU Energy Optimization for Machine Learning Training Workloads</title>
+      <link>https://zwang4.github.io/publication/tpds21/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tpds21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reinforcement Learning-based Dialogue Guided Event Extraction to Exploit Argument Relations</title>
       <link>https://zwang4.github.io/publication/taslp21/</link>
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://zwang4.github.io/publication/tc21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CrossGR: Accurate and Low-cost Cross-target Gesture Recognitionusing Wi-Fi</title>
-      <link>https://zwang4.github.io/publication/ubicomp21/</link>
-      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/ubicomp21/</guid>
       <description></description>
     </item>
     
