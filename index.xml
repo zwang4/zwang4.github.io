@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Parallelizing and Balancing Large-scale Coupled DSMC/PIC Based Particle Simulations</title>
+      <link>https://zwang4.github.io/publication/ipdps22/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ipdps22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explicitly Modeling Importance and Coherence for Timeline Summarization</title>
+      <link>https://zwang4.github.io/publication/icassp22/</link>
+      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/icassp22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dynamic GPU Energy Optimization for Machine Learning Training Workloads</title>
       <link>https://zwang4.github.io/publication/tpds21/</link>
       <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Fri, 09 Apr 2021 00:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/publication/lctes21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automated Conformance Testing for JavaScript Engines via Deep Compiler Fuzzing</title>
-      <link>https://zwang4.github.io/publication/pldi21/</link>
-      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/pldi21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LIME: Low-Cost and Incremental Learning for Dynamic Heterogeneous Information Networks</title>
-      <link>https://zwang4.github.io/publication/tc21/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/tc21/</guid>
       <description></description>
     </item>
     
