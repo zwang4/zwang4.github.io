@@ -13,6 +13,24 @@
     
     
     <item>
+      <title>Parallelizing and Balancing Large-scale Coupled DSMC/PIC Based Particle Simulations</title>
+      <link>https://zwang4.github.io/publication/ipdps22/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ipdps22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explicitly Modeling Importance and Coherence for Timeline Summarization</title>
+      <link>https://zwang4.github.io/publication/icassp22/</link>
+      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/icassp22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dynamic GPU Energy Optimization for Machine Learning Training Workloads</title>
       <link>https://zwang4.github.io/publication/tpds21/</link>
       <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
