@@ -1023,16 +1023,6 @@
     
     <url>
     
-      <loc>https://zwang4.github.io/publication_types/1/</loc>
-      <lastmod>2022-04-04T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://zwang4.github.io/publication_topics/1/</loc>
       <lastmod>2020-11-18T11:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -1043,8 +1033,8 @@
     
     <url>
     
-      <loc>https://zwang4.github.io/publication_types/2/</loc>
-      <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+      <loc>https://zwang4.github.io/publication_types/1/</loc>
+      <lastmod>2022-04-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1054,6 +1044,16 @@
     <url>
     
       <loc>https://zwang4.github.io/publication_topics/2/</loc>
+      <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://zwang4.github.io/publication_types/2/</loc>
       <lastmod>2022-03-07T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
