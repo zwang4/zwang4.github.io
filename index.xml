@@ -11,9 +11,18 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>STRONGHOLD: Fast and Affordable Billion-scale Deep Learning Model Training</title>
+      <link>https://zwang4.github.io/publication/sc22-2/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/sc22-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Towards Scalable Supercomputing Resource Management</title>
       <link>https://zwang4.github.io/publication/sc22-1/</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/publication/sc22-1/</guid>
       <description></description>
@@ -133,15 +142,6 @@
       <pubDate>Sat, 11 Sep 2021 00:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/publication/tkde/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimizing Sparse Matrix Multiplications for Graph Neural Networks</title>
-      <link>https://zwang4.github.io/publication/lcpc21/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/lcpc21/</guid>
       <description></description>
     </item>
     
