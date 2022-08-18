@@ -11,6 +11,51 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Towards Wide-Area Contactless Wireless Sensing</title>
+      <link>https://zwang4.github.io/publication/ton/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Wide-Area Contactless Wireless Sensing</title>
+      <link>https://zwang4.github.io/publication/ton22/</link>
+      <pubDate>Mon, 25 Jul 2022 11:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ton22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wi-Learner: Towards One-shot Learning for Cross-Domain Wi-Fi based Gesture Recognition</title>
+      <link>https://zwang4.github.io/publication/ubicomp23/</link>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ubicomp23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STRONGHOLD: Fast and Affordable Billion-scale Deep Learning Model Training</title>
+      <link>https://zwang4.github.io/publication/sc22-2/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/sc22-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Scalable Supercomputing Resource Management</title>
+      <link>https://zwang4.github.io/publication/sc22-1/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/sc22-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>AIACC-Training: Optimizing Distributed Deep Learning Training through Multi-streamed and Concurrent Gradient Communications</title>
       <link>https://zwang4.github.io/publication/icdcs22/</link>
       <pubDate>Mon, 04 Apr 2022 00:00:00 +0100</pubDate>
@@ -97,51 +142,6 @@
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://zwang4.github.io/publication/hpcc21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adaptive Computation Offloading for Mobile Augmented Reality</title>
-      <link>https://zwang4.github.io/publication/ubicomp22/</link>
-      <pubDate>Mon, 11 Oct 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/ubicomp22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Accelerating DNNs on GPUs</title>
-      <link>https://zwang4.github.io/project/fb/</link>
-      <pubDate>Wed, 06 Oct 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/project/fb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lifelong Property Price Prediction: A Case Study for the Toronto Real Estate Market</title>
-      <link>https://zwang4.github.io/publication/tkde/</link>
-      <pubDate>Sat, 11 Sep 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/tkde/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimizing Sparse Matrix Multiplications for Graph Neural Networks</title>
-      <link>https://zwang4.github.io/publication/lcpc21/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/lcpc21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RISE: Robust Wireless Sensing using Probabilistic and Statistical Assessments</title>
-      <link>https://zwang4.github.io/publication/mobicom21/</link>
-      <pubDate>Fri, 06 Aug 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/mobicom21/</guid>
       <description></description>
     </item>
     
