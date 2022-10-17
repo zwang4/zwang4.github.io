@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 17 Jul 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 17 Oct 2022 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://zwang4.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,13 +15,13 @@
     <item>
       <title></title>
       <link>https://zwang4.github.io/home/about/</link>
-      <pubDate>Wed, 17 Jul 2019 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/home/about/</guid>
       <description>Zheng Wang  I am (full) Professor of Intelligent Software Technology at the School of Computing at the University of Leeds.
 My research agenda is to make software development easier and more accessible so that every programmer can easily write, maintain and optimise software. I maintain a list of must-read research papers for machine learning in compilers.
 My research interests include:
- Accelerate large-scale deep learning model training: I am investigating ways to accelerate the training of large-scale deep learning models on distributed and heterogenous hardware;</description>
+ Accelerate large-scale deep learning model training: I am researching ways to accelerate the training of large-scale deep learning models on distributed and heterogenous hardware; I am working with Alibaba and Meta for this line of research.</description>
     </item>
     
     <item>
