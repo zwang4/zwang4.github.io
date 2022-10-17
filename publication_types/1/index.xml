@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://zwang4.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HiGIL: Hierarchical Graph Inference Learning for Fact Checking</title>
+      <link>https://zwang4.github.io/publication/icdm/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/icdm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>STRONGHOLD: Fast and Affordable Billion-scale Deep Learning Model Training</title>
