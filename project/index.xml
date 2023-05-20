@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://zwang4.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>M4Secure: Making Memory Management More Secure</title>
+      <link>https://zwang4.github.io/project/m4secure/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/project/m4secure/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Modernise Compiler Technology through Deep Learning</title>
