@@ -11,11 +11,47 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Optimizing Direct Convolutions on ARM Multi-Cores</title>
+      <link>https://zwang4.github.io/publication/sc23-2/</link>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/sc23-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing MPI Collectives on Shared Memory Multi-cores</title>
+      <link>https://zwang4.github.io/publication/sc23-1/</link>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/sc23-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HighRPM: Combining Integrated Measurement and Power Modeling for High-Resolution Power Monitoring</title>
+      <link>https://zwang4.github.io/publication/icpp23/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/icpp23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>M4Secure: Making Memory Management More Secure</title>
       <link>https://zwang4.github.io/project/m4secure/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/project/m4secure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ChatGPT, Make a Secure Malloc for me</title>
+      <link>https://zwang4.github.io/publication/plarch23/</link>
+      <pubDate>Sun, 14 May 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/plarch23/</guid>
       <description></description>
     </item>
     
@@ -106,42 +142,6 @@
       <pubDate>Mon, 13 Jun 2022 00:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/publication/sc22-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AIACC-Training: Optimizing Distributed Deep Learning Training through Multi-streamed and Concurrent Gradient Communications</title>
-      <link>https://zwang4.github.io/publication/icdcs22/</link>
-      <pubDate>Mon, 04 Apr 2022 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/icdcs22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fact-driven Abstractive Summarization by Utilizing Multi-granular Multi-relational Knowledge</title>
-      <link>https://zwang4.github.io/publication/talsp22/</link>
-      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/talsp22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automating Reinforcement Learning Architecture Design for Code Optimization</title>
-      <link>https://zwang4.github.io/publication/cc22/</link>
-      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/cc22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploring the Impact of Negative Samples of Contrastive Learning: A Case Study of Sentence Embedding</title>
-      <link>https://zwang4.github.io/publication/acl22/</link>
-      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/acl22/</guid>
       <description></description>
     </item>
     
