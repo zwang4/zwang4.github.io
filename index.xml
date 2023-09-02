@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Optimizing Deep Learning Inference via Global Analysis and Tensor Expressions</title>
+      <link>https://zwang4.github.io/publication/asplos24/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/asplos24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Generative and Mutational Approach for Synthesizing Bug-Exposing Test Cases to Guide Compiler Fuzzing</title>
+      <link>https://zwang4.github.io/publication/fse23/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/fse23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optimizing Direct Convolutions on ARM Multi-Cores</title>
       <link>https://zwang4.github.io/publication/sc23-2/</link>
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0100</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Mon, 11 Jul 2022 00:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/publication/ubicomp23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>STRONGHOLD: Fast and Affordable Billion-scale Deep Learning Model Training</title>
-      <link>https://zwang4.github.io/publication/sc22-2/</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/sc22-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards Scalable Supercomputing Resource Management</title>
-      <link>https://zwang4.github.io/publication/sc22-1/</link>
-      <pubDate>Mon, 13 Jun 2022 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/sc22-1/</guid>
       <description></description>
     </item>
     
