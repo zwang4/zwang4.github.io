@@ -21,7 +21,7 @@
       <description>Zheng Wang  I am (full) Professor of Intelligent Software Technology at the School of Computing at the University of Leeds.
 My research agenda is to make software development easier and more accessible so that every programmer can easily write, maintain and optimise software. I maintain a list of must-read research papers for machine learning in compilers.
 My research interests include:
- Accelerate large-scale deep learning models: I work to make the training and use of large-scale deep learning models (with billions or trillions of parameters) accessible to every data scientist and organisation by collaborating with major industrial players including Meta.</description>
+ Program optimisation: I am interested in how we can design new algorithms and optimisation techniques at compilers and operating systems to improve application performance and energy efficiency, with the ultimate goal of massively reducing the software development cost; I often use machine learning (including deep learning) as a design methodology.</description>
     </item>
     
     <item>
