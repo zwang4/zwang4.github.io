@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Zheng Wang</title>
+    <link>https://zwang4.github.io/home/</link>
+    <description>Recent content in Homes on Zheng Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 17 Oct 2022 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://zwang4.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://zwang4.github.io/home/about/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/home/about/</guid>
+      <description>Zheng Wang  I am (full) Professor of Intelligent Software Technology at the School of Computing at the University of Leeds.
+My research agenda is to make software development easier and more accessible so that every programmer can easily write, maintain and optimise software. I maintain a list of must-read research papers for machine learning in compilers.
+My research interests include:
+ Accelerate large-scale deep learning models: I work to make the training and use of large-scale deep learning models (with billions or trillions of parameters) accessible to every data scientist and organisation by collaborating with major industrial players including Meta.</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://zwang4.github.io/home/news/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/home/news/</guid>
+      <description> [May, 2023] New EPSRC-funded project (PI) on buidling secure and high-performance memory allocators (with a PDRA post opening soon). [July, 2022] Awarded a project (PI) on transformative compiler technology [Jun, 2022] Two papers accepted by SC 2022 (CCF Rank-A conference) [Oct, 2021] Received Facebook gift award for research on GPU optimisation. [July, 2021] We are hiring a research fellow in compiler optimisaiton! Apply through here.  </description>
+    </item>
+    
+    <item>
+      <title>Research Team</title>
+      <link>https://zwang4.github.io/home/team/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/home/team/</guid>
+      <description>PhD Students  Xiaoyang Sun, 09 / 2019 - 09 / 2023, (Funded by industry PhD studentship, co-supervised with Jie Xu); Jiayu Zhao, 10 / 2020 - (Funded by Industrial PhD Scholarship); Shenghao Qiu, 10 / 2020 - (Funded by industry PhD studentship); Haibo Wang, 10 / 2020 -, Funded by Leeds-SUSTech Joint PhD program (co-supervised with Shin Hwei Tan from SUSTech). Yin Wu, 01 / 2021 -, Funded by Leeds-SUSTech Joint PhD program (co-supervised with James Jianqiao Yu from SUSTech); Yachao Zhu, 04 / 2021 - (Funded by School of Computing Scholarship); Patrick Lenihan, 10 / 2021 - (Funded by School of Computing DTP Scholarship); Huanting Wang, 10 / 2021 - (Funded by School of Computing Scholarship); Beite Yang, 10 / 2021 - (co-supervised with Amirul Khan and Peter Jimack, funded by CFD CDT); Yiming Ma, 09 / 2023 - (Funded by industry PhD scholarship); HWei Zhang, 10 / 2023 - (Funded by EPSRC DTP scholarship); Ce Yang, 10 / 2023 -  PDRA  Chunwei Xia  Alumni  Rodrigo Caetano Rocha 10 / 2016 - 0/2021, (PhD student, co-supervised with Hugh Leather and Murray Cole from the University of Edinburgh) - now Research Fellow at University of Edinburgh Ben Taylor (PhD Student) - firt job: Transport for the North Vicent Sanz Marco (PDRA) - Assistant professor at Osaka University, Japan Volker Seeker (PDRA) - now with University of Edinburgh Guixin Ye - now associate professor at Northwest University; Best paper award nomination at CCS 2018, ACM China Best PhD Dissertation Award (Shaanxi Province).</description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>https://zwang4.github.io/home/awards/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/home/awards/</guid>
+      <description> Facebook research award, 2021 Best Paper Award: ACM/IEEE PACT 2010, ACM/IEEE CGO 2017, ACM/IEEE PACT 2017, ACM/IEEE CGO 2019 Best Paper Nomination: ACM CCS 2018, ACM SenSys 2019 Best Presentation Award: ACM/IEEE PACT 2010, ACM/IEEE CGO 2013 HiPEAC Paper Award: PLDI 2021, PLDI 2020, PLDI 2009 - for &amp;ldquo;publishing their work at conferences in which Europe is not strongly represented&amp;rdquo; IBM Bravo! Award for outstanding technical contribution to Software Development Toolkit for IBM CELL BroadBand Engine Processor, IBM: 2007  </description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>https://zwang4.github.io/home/research/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/home/research/</guid>
+      <description> Facebook research award, 2021 Best Paper Award: ACM/IEEE PACT 2010, ACM/IEEE CGO 2017, ACM/IEEE PACT 2017, ACM/IEEE CGO 2019 Best Paper Nomination: ACM CCS 2018, ACM SenSys 2019 Best Presentation Award: ACM/IEEE PACT 2010, ACM/IEEE CGO 2013 HiPEAC Paper Award: PLDI 2021, PLDI 2020, PLDI 2009 - for &amp;ldquo;publishing their work at conferences in which Europe is not strongly represented&amp;rdquo; IBM Bravo! Award for outstanding technical contribution to Software Development Toolkit for IBM CELL BroadBand Engine Processor, IBM: 2007  </description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://zwang4.github.io/home/publications/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/home/publications/</guid>
+      <description>Google Scholar | DBLP</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://zwang4.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/home/publications_selected/</guid>
+      <description>Google Scholar | Completed List @ Lancaster University Publication Portal | DBLP</description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://zwang4.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://zwang4.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://zwang4.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://zwang4.github.io/home/teaching/</link>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/home/teaching/</guid>
+      <description> Teaching  XJCO1921 Programming Project, 2021- COMP1211 Computer Architecture, 2019-  </description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://zwang4.github.io/home/services/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/home/services/</guid>
+      <description> Professional Services  Guest editor: Elesiver Journal of Computer Languages, CCF Transactions on High Performance Computing Program/General Chair: COSMIC 2019 @ CGO 2019, COSMIC 2017 @ CGO 2017, COSMIC 2015 @ CGO 2015, COSMIC 2013 @ CGO 2013, HiPEAC Thematic Session 2013 and 2016 Artifact Evaluation Chair: PACT 2016 Workshop co-chair: Mobisys 23 Lightning Talk Chair: PLDI 2017 Program Committee Member: CGO ’24, AACL &amp;lsquo;23, LCTES &amp;lsquo;23, ACL &amp;lsquo;23, EuroMLSys &amp;lsquo;23, AccML &amp;lsquo;23, IPDPS ’23, EMNLP &amp;lsquo;22, AACL &amp;lsquo;22, HIPS &amp;lsquo;22, EuroMLSys &amp;lsquo;22, AAAI &amp;lsquo;22, IJCAI &amp;lsquo;22 (senior PC), IPDPS &amp;lsquo;22, CGO &amp;lsquo;22, EMNLP &amp;lsquo;21, LCTES &amp;lsquo;21, IPDPS &amp;lsquo;21, IJCAI &amp;lsquo;21 (senior PC), The first International Conference on Code Quality (ICCQ 2021), MLSH &amp;lsquo;20 @ PACT &amp;lsquo;20, IEEE TPDS Special Section on Parallel and Distributed Computing Techniques for AI, ML and DL 2020, AACL &amp;lsquo;20, IPDPS &amp;lsquo;20, CGO &amp;lsquo;20, PPoPP &amp;lsquo;20, Challenge &amp;lsquo;20, NPC &amp;lsquo;19, Aorta @ ECOOP &amp;lsquo;19, ACL &amp;lsquo;19, IJCAI &amp;lsquo;19, IPDPS &amp;lsquo;19, ICAC &amp;lsquo;19, PACT &amp;lsquo;18, NPC &amp;lsquo;18, ICPADS &amp;lsquo;18, COLING &amp;lsquo;18, INFOCOMP &amp;lsquo;18, ICAC &amp;lsquo;18, ParCo &amp;lsquo;17, CC &amp;lsquo;16, ERPP &amp;lsquo;15, ML4PL &amp;lsquo;15, ParCo &amp;lsquo;15, ICPP-EMS &amp;lsquo;15, PASA &amp;lsquo;14, PASA &amp;lsquo;13, ITCS &amp;lsquo;12, ITCS &amp;lsquo;11, ICPADS &amp;lsquo;09 External Review Committee Member: CGO 2018, CGO 2015, PLDI 2014, HPCA 2015, HiPEAC 2011  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://zwang4.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biography</title>
+      <link>https://zwang4.github.io/home/bio/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/home/bio/</guid>
+      <description> May 2022 - , Professor School of Computing, University of Leeds July 2019 - April 2022, Associate Professor, School of Computing, University of Leeds August 2018 - July 2019, Senior Lecturer, School of Computing and Communications, Lancaster University. Sept 2013 - July, 2018, Lecturer, School of Computing and Communications, Lancaster University. 2012 - 2013, Research Associate, the University of Edinbugh. 2007 - 2011, PhD Student, the University of Edinburgh. Nominated for BCS Distinguished Dissertation Award; 2005 - 2007, Research Staff member, IBM China Research Lab  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://zwang4.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
