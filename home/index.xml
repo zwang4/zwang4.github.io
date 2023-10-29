@@ -14,18 +14,6 @@
     
     <item>
       <title></title>
-      <link>https://zwang4.github.io/home/about-laptop-carbonxv/</link>
-      <pubDate>Mon, 17 Oct 2022 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/home/about-laptop-carbonxv/</guid>
-      <description>Zheng Wang  I am (full) Professor of Intelligent Software Technology at the School of Computing at the University of Leeds.
-My research agenda is to make software development easier and more accessible so that every programmer can easily write, maintain and optimise software. I maintain a list of must-read research papers for machine learning in compilers.
-My research interests include:
- Accelerate large-scale deep learning models: I work to make the training and use of large-scale deep learning models (with billions or trillions of parameters) accessible to every data scientist and organisation by collaborating with major industrial players including Meta.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://zwang4.github.io/home/about/</link>
       <pubDate>Mon, 17 Oct 2022 00:00:00 +0100</pubDate>
       
@@ -38,29 +26,11 @@ My research interests include:
     
     <item>
       <title>News</title>
-      <link>https://zwang4.github.io/home/news-laptop-carbonxv/</link>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/home/news-laptop-carbonxv/</guid>
-      <description> [May, 2023] New EPSRC-funded project (PI) on buidling secure and high-performance memory allocators (with a PDRA post opening soon). [July, 2022] Awarded a project (PI) on transformative compiler technology [Jun, 2022] Two papers accepted by SC 2022 (CCF Rank-A conference) [Oct, 2021] Received Facebook gift award for research on GPU optimisation. [July, 2021] We are hiring a research fellow in compiler optimisaiton! Apply through here.  </description>
-    </item>
-    
-    <item>
-      <title>News</title>
       <link>https://zwang4.github.io/home/news/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/home/news/</guid>
       <description>[September, 2023] New 24-month Innovative UK project awarded (PI) - An RA post will open soon. [May, 2023] New EPSRC-funded project (PI) on buidling secure and high-performance memory allocators [July, 2022] Awarded a project (PI) on transformative compiler technology [Jun, 2022] Two papers accepted by SC 2022 (CCF Rank-A conference) [Oct, 2021] Received Facebook gift award for research on GPU optimisation. [July, 2021] We are hiring a research fellow in compiler optimisaiton!</description>
-    </item>
-    
-    <item>
-      <title>Research Team</title>
-      <link>https://zwang4.github.io/home/team-laptop-carbonxv/</link>
-      <pubDate>Fri, 20 Apr 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/home/team-laptop-carbonxv/</guid>
-      <description>PhD Students  Xiaoyang Sun, 09 / 2019 - 09 / 2023, (Funded by industry PhD studentship, co-supervised with Jie Xu); Jiayu Zhao, 10 / 2020 - (Funded by Industrial PhD Scholarship); Shenghao Qiu, 10 / 2020 - (Funded by industry PhD studentship); Haibo Wang, 10 / 2020 -, Funded by Leeds-SUSTech Joint PhD program (co-supervised with Shin Hwei Tan from SUSTech). Yin Wu, 01 / 2021 -, Funded by Leeds-SUSTech Joint PhD program (co-supervised with James Jianqiao Yu from SUSTech); Yachao Zhu, 04 / 2021 - (Funded by School of Computing Scholarship); Patrick Lenihan, 10 / 2021 - (Funded by School of Computing DTP Scholarship); Huanting Wang, 10 / 2021 - (Funded by School of Computing Scholarship); Beite Yang, 10 / 2021 - (co-supervised with Amirul Khan and Peter Jimack, funded by CFD CDT); Yiming Ma, 09 / 2023 - (Funded by industry PhD scholarship); HWei Zhang, 10 / 2023 - (Funded by EPSRC DTP scholarship); Ce Yang, 10 / 2023 -  PDRA  Chunwei Xia  Alumni  Rodrigo Caetano Rocha 10 / 2016 - 0/2021, (PhD student, co-supervised with Hugh Leather and Murray Cole from the University of Edinburgh) - now Research Fellow at University of Edinburgh Ben Taylor (PhD Student) - firt job: Transport for the North Vicent Sanz Marco (PDRA) - Assistant professor at Osaka University, Japan Volker Seeker (PDRA) - now with University of Edinburgh Guixin Ye - now associate professor at Northwest University; Best paper award nomination at CCS 2018, ACM China Best PhD Dissertation Award (Shaanxi Province).</description>
     </item>
     
     <item>
@@ -79,15 +49,6 @@ My research interests include:
       
       <guid>https://zwang4.github.io/home/awards/</guid>
       <description> Facebook research award, 2021 Best Paper Award: ACM/IEEE PACT 2010, ACM/IEEE CGO 2017, ACM/IEEE PACT 2017, ACM/IEEE CGO 2019 Best Paper Nomination: ACM SC 2023, ACM CCS 2018, ACM SenSys 2019 Best Presentation Award: ACM/IEEE PACT 2010, ACM/IEEE CGO 2013 HiPEAC Paper Award: PLDI 2021, PLDI 2020, PLDI 2009 - for &amp;ldquo;publishing their work at conferences in which Europe is not strongly represented&amp;rdquo; IBM Bravo! Award for outstanding technical contribution to Software Development Toolkit for IBM CELL BroadBand Engine Processor, IBM: 2007  </description>
-    </item>
-    
-    <item>
-      <title>Awards</title>
-      <link>https://zwang4.github.io/home/awards-laptop-carbonxv/</link>
-      <pubDate>Tue, 07 Sep 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/home/awards-laptop-carbonxv/</guid>
-      <description> Facebook research award, 2021 Best Paper Award: ACM/IEEE PACT 2010, ACM/IEEE CGO 2017, ACM/IEEE PACT 2017, ACM/IEEE CGO 2019 Best Paper Nomination: ACM CCS 2018, ACM SenSys 2019 Best Presentation Award: ACM/IEEE PACT 2010, ACM/IEEE CGO 2013 HiPEAC Paper Award: PLDI 2021, PLDI 2020, PLDI 2009 - for &amp;ldquo;publishing their work at conferences in which Europe is not strongly represented&amp;rdquo; IBM Bravo! Award for outstanding technical contribution to Software Development Toolkit for IBM CELL BroadBand Engine Processor, IBM: 2007  </description>
     </item>
     
     <item>
