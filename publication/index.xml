@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Optimizing Deep Learning Inference via Global Analysis and Tensor Expressions</title>
+      <link>https://zwang4.github.io/publication/asplos24/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/asplos24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GraphCube: Interconnection Hierarchy-aware Graph Processing</title>
       <link>https://zwang4.github.io/publication/ppopp24/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
@@ -45,15 +54,6 @@
       <pubDate>Mon, 11 Sep 2023 11:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/publication/tsusc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimizing Deep Learning Inference via Global Analysis and Tensor Expressions</title>
-      <link>https://zwang4.github.io/publication/asplos24/</link>
-      <pubDate>Thu, 24 Aug 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/asplos24/</guid>
       <description></description>
     </item>
     
@@ -265,15 +265,6 @@
     </item>
     
     <item>
-      <title>Characterizing OpenMP SynchronizationImplementations on ARMv8 Multi-Cores</title>
-      <link>https://zwang4.github.io/publication/hpcc21/</link>
-      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/hpcc21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Adaptive Computation Offloading for Mobile Augmented Reality</title>
       <link>https://zwang4.github.io/publication/ubicomp22/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0100</pubDate>
@@ -306,15 +297,6 @@
       <pubDate>Fri, 06 Aug 2021 00:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/publication/mobicom21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimizing Barrier Synchronization on ARMv8 Many-Core Architectures</title>
-      <link>https://zwang4.github.io/publication/cluster21/</link>
-      <pubDate>Tue, 06 Jul 2021 11:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/cluster21/</guid>
       <description></description>
     </item>
     
@@ -463,15 +445,6 @@
     </item>
     
     <item>
-      <title>Optimizing GPU Memory Transactions for Convolution Operations</title>
-      <link>https://zwang4.github.io/publication/cluster20/</link>
-      <pubDate>Thu, 06 Feb 2020 11:00:00 +0000</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/cluster20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Parallel Programming Models for Heterogeneous Many-Cores : A Comprehensive Survey</title>
       <link>https://zwang4.github.io/publication/thpc/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
@@ -531,15 +504,6 @@
       <pubDate>Sat, 13 Jul 2019 00:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/publication/sensys19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Characterizing Scalability of Sparse Matrix-Vector Multiplications on Phytium FT-2000&#43;</title>
-      <link>https://zwang4.github.io/publication/ijpp19/</link>
-      <pubDate>Sun, 07 Jul 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/ijpp19/</guid>
       <description></description>
     </item>
     
@@ -643,15 +607,6 @@
     </item>
     
     <item>
-      <title>Optimizing Sparse Matrix-Vector Multiplications on An ARMv8-based Many-Core Architecture</title>
-      <link>https://zwang4.github.io/publication/ijpp18/</link>
-      <pubDate>Sat, 28 Apr 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/ijpp18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Marrying up Regular Expressions with Neural Networks: A Case Study for Spoken Language Understanding</title>
       <link>https://zwang4.github.io/publication/acl18/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
@@ -693,15 +648,6 @@
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://zwang4.github.io/publication/csj18--2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adaptive Optimization of Sparse Matrix-Vector Multiplication on Emerging Many-Core Architectures</title>
-      <link>https://zwang4.github.io/publication/hpcc18/</link>
-      <pubDate>Mon, 01 Jan 2018 11:00:00 +0000</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/hpcc18/</guid>
       <description></description>
     </item>
     
@@ -828,15 +774,6 @@
       <pubDate>Tue, 28 Mar 2017 00:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/publication/lctes17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AppIS: Protect Android Apps Against Runtime Repackaging Attacks</title>
-      <link>https://zwang4.github.io/publication/icpads17/</link>
-      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/icpads17/</guid>
       <description></description>
     </item>
     
