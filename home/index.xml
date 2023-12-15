@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 17 Oct 2022 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zwang4.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,13 +15,13 @@
     <item>
       <title></title>
       <link>https://zwang4.github.io/home/about/</link>
-      <pubDate>Mon, 17 Oct 2022 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://zwang4.github.io/home/about/</guid>
       <description>Zheng Wang  I am (full) Professor of Intelligent Software Technology at the School of Computing at the University of Leeds.
 My research agenda is to make software development easier and more accessible so that every programmer can easily write, maintain and optimise software. I maintain a list of must-read research papers for machine learning in compilers.
 My research interests include:
- Program optimisation: I am interested in how we can design new algorithms and optimisation techniques at compilers and operating systems to improve application performance and energy efficiency, with the ultimate goal of massively reducing the software development cost; I often use machine learning (including deep learning) as a design methodology.</description>
+ Program optimisation and analysis: I am interested in how we can design new algorithms and optimisation techniques at compilers and operating systems to improve application performance and energy efficiency, with the ultimate goal of massively reducing the software development cost; I often use machine learning (including deep learning) as a design methodology.</description>
     </item>
     
     <item>
