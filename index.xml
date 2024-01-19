@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>Combining Structured Static Code Information and Dynamic Symbolic Traces for Software Vulnerability Prediction</title>
+      <link>https://zwang4.github.io/publication/tmlr/</link>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tmlr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optimizing Deep Learning Inference via Global Analysis and Tensor Expressions</title>
       <link>https://zwang4.github.io/publication/asplos24/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Sun, 14 May 2023 00:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/publication/plarch23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimizing Multi-grid Computation and Parallelization on Multi-cores</title>
-      <link>https://zwang4.github.io/publication/ics23/</link>
-      <pubDate>Fri, 14 Apr 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/ics23/</guid>
       <description></description>
     </item>
     
