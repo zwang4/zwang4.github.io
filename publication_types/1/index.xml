@@ -31,15 +31,6 @@
     </item>
     
     <item>
-      <title>GraphCube: Interconnection Hierarchy-aware Graph Processing</title>
-      <link>https://zwang4.github.io/publication/ppopp24/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/ppopp24/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A Generative and Mutational Approach for Synthesizing Bug-Exposing Test Cases to Guide Compiler Fuzzing</title>
       <link>https://zwang4.github.io/publication/fse23/</link>
       <pubDate>Sat, 24 Jun 2023 00:00:00 +0100</pubDate>
