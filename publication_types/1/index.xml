@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://zwang4.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introducing Compiler Semantics into Large Language Models as Programming Language Translators: A Case Study of C to x86 Assembly</title>
+      <link>https://zwang4.github.io/publication/acl24---2/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/acl24---2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iterative Refinement of Project-Level Code Context for Precise Code Generation with Compiler Feedback</title>
+      <link>https://zwang4.github.io/publication/acl24/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/acl24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>UPBEAT: Test Input Checks of Q# Quantum Libraries</title>

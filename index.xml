@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Introducing Compiler Semantics into Large Language Models as Programming Language Translators: A Case Study of C to x86 Assembly</title>
+      <link>https://zwang4.github.io/publication/acl24---2/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/acl24---2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iterative Refinement of Project-Level Code Context for Precise Code Generation with Compiler Feedback</title>
+      <link>https://zwang4.github.io/publication/acl24/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/acl24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>UPBEAT: Test Input Checks of Q# Quantum Libraries</title>
       <link>https://zwang4.github.io/publication/issta24/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/publication/sc23-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HighRPM: Combining Integrated Measurement and Power Modeling for High-Resolution Power Monitoring</title>
-      <link>https://zwang4.github.io/publication/icpp23/</link>
-      <pubDate>Fri, 16 Jun 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/icpp23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M4Secure: Making Memory Management More Secure</title>
-      <link>https://zwang4.github.io/project/m4secure/</link>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/project/m4secure/</guid>
       <description></description>
     </item>
     
