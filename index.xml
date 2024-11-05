@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Enhancing Deployment-time Predictive Model Robustness for Code Analysis and Optimization</title>
+      <link>https://zwang4.github.io/publication/cgo25/</link>
+      <pubDate>Mon, 04 Nov 2024 12:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/cgo25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Introducing Compiler Semantics into Large Language Models as Programming Language Translators: A Case Study of C to x86 Assembly</title>
       <link>https://zwang4.github.io/publication/acl24---2/</link>
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0100</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/publication/sc23-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimizing MPI Collectives on Shared Memory Multi-cores</title>
-      <link>https://zwang4.github.io/publication/sc23-1/</link>
-      <pubDate>Sat, 17 Jun 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/sc23-1/</guid>
       <description></description>
     </item>
     
