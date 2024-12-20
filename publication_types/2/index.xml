@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 02 Feb 2024 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 11:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zwang4.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SCENARIO: User-Device Authentication on Smart IoTs Using Commodity RFID</title>
+      <link>https://zwang4.github.io/publication/tdsc/</link>
+      <pubDate>Fri, 20 Dec 2024 11:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tdsc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Trust Management of Tiny Federated Learning in Internet of Unmanned Aerial Vehicle</title>
@@ -36,15 +45,6 @@
       <pubDate>Mon, 09 Oct 2023 11:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/publication/tits/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCENARIO: User-Device Authentication on Smart IoTs Using Commodity RFID</title>
-      <link>https://zwang4.github.io/publication/tdsc/</link>
-      <pubDate>Mon, 09 Oct 2023 11:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/tdsc/</guid>
       <description></description>
     </item>
     
