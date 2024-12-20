@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>SCENARIO: User-Device Authentication on Smart IoTs Using Commodity RFID</title>
+      <link>https://zwang4.github.io/publication/tdsc/</link>
+      <pubDate>Mon, 09 Oct 2023 11:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tdsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Generative and Mutational Approach for Synthesizing Bug-Exposing Test Cases to Guide Compiler Fuzzing</title>
       <link>https://zwang4.github.io/publication/fse23/</link>
       <pubDate>Sat, 24 Jun 2023 00:00:00 +0100</pubDate>

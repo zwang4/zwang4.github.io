@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zwang4.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Accelerating Tensor-train Decomposition on Graph Neural Networks</title>
+      <link>https://zwang4.github.io/publication/ipdps25-1/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ipdps25-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging Compilation Statistics for Compiler Phase Ordering</title>
+      <link>https://zwang4.github.io/publication/ipdps25-2/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ipdps25-2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Effects of Momentum in Implicit Bias of Gradient Flow for Diagonal Linear Networks</title>

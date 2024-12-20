@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Accelerating Tensor-train Decomposition on Graph Neural Networks</title>
+      <link>https://zwang4.github.io/publication/ipdps25-1/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ipdps25-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging Compilation Statistics for Compiler Phase Ordering</title>
+      <link>https://zwang4.github.io/publication/ipdps25-2/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ipdps25-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Effects of Momentum in Implicit Bias of Gradient Flow for Diagonal Linear Networks</title>
       <link>https://zwang4.github.io/publication/aaai25/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
@@ -110,38 +128,20 @@
     </item>
     
     <item>
+      <title>SCENARIO: User-Device Authentication on Smart IoTs Using Commodity RFID</title>
+      <link>https://zwang4.github.io/publication/tdsc/</link>
+      <pubDate>Mon, 09 Oct 2023 11:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tdsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DisCo: Distilled Student Models Co-training for Semi-supervised Text Mining</title>
       <link>https://zwang4.github.io/publication/emnlp24/</link>
       <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://zwang4.github.io/publication/emnlp24/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JavaScript Performance Tuning as A Crowdsourced Service</title>
-      <link>https://zwang4.github.io/publication/tmc23/</link>
-      <pubDate>Wed, 13 Sep 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/tmc23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model-Free GPU Online Energy Optimization</title>
-      <link>https://zwang4.github.io/publication/tsusc/</link>
-      <pubDate>Mon, 11 Sep 2023 11:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/tsusc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Generative and Mutational Approach for Synthesizing Bug-Exposing Test Cases to Guide Compiler Fuzzing</title>
-      <link>https://zwang4.github.io/publication/fse23/</link>
-      <pubDate>Sat, 24 Jun 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/fse23/</guid>
       <description></description>
     </item>
     
