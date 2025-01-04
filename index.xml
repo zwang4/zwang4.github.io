@@ -11,6 +11,33 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Enhancing Deployment-time Predictive Model Robustness for Code Analysis and Optimization</title>
+      <link>https://zwang4.github.io/publication/cgo25/</link>
+      <pubDate>Fri, 03 Jan 2025 12:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/cgo25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating Tensor-train Decomposition on Graph Neural Networks</title>
+      <link>https://zwang4.github.io/publication/ipdps25-1/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ipdps25-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging Compilation Statistics for Compiler Phase Ordering</title>
+      <link>https://zwang4.github.io/publication/ipdps25-2/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/ipdps25-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SCENARIO: User-Device Authentication on Smart IoTs Using Commodity RFID</title>
       <link>https://zwang4.github.io/publication/tdsc/</link>
       <pubDate>Fri, 20 Dec 2024 11:00:00 +0000</pubDate>
@@ -20,38 +47,11 @@
     </item>
     
     <item>
-      <title>Accelerating Tensor-train Decomposition on Graph Neural Networks</title>
-      <link>https://zwang4.github.io/publication/ipdps25-1/</link>
-      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/ipdps25-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leveraging Compilation Statistics for Compiler Phase Ordering</title>
-      <link>https://zwang4.github.io/publication/ipdps25-2/</link>
-      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/ipdps25-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Effects of Momentum in Implicit Bias of Gradient Flow for Diagonal Linear Networks</title>
       <link>https://zwang4.github.io/publication/aaai25/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>https://zwang4.github.io/publication/aaai25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enhancing Deployment-time Predictive Model Robustness for Code Analysis and Optimization</title>
-      <link>https://zwang4.github.io/publication/cgo25/</link>
-      <pubDate>Mon, 04 Nov 2024 12:00:00 +0000</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/cgo25/</guid>
       <description></description>
     </item>
     
