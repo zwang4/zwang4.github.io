@@ -11,7 +11,7 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A Generative and Mutational Approach for Synthesizing Bug-Exposing Test Cases to Guide Compiler Fuzzing</title>
+      <title>Towards Diverse Program Transformations for Program Simplification</title>
       <link>https://zwang4.github.io/publication/fse25/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       
