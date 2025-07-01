@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 30 Apr 2025 12:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jun 2025 12:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://zwang4.github.io/publication_topics/0/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Accelerating Private Large Transformers Inference through Fine-grained Collaborative Computation</title>
+      <link>https://zwang4.github.io/publication/tifs25/</link>
+      <pubDate>Sun, 22 Jun 2025 12:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tifs25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dataflow-Guided Neuro-Symbolic Language Models for Type Inference</title>
