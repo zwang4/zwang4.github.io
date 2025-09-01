@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 20 Jun 2025 12:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 12:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://zwang4.github.io/publication_topics/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sweet or Sour CHERI: Performance Characterization of the Arm Morello Platform</title>
+      <link>https://zwang4.github.io/publication/iiswc25/</link>
+      <pubDate>Wed, 20 Aug 2025 12:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/iiswc25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MetaGuardian: Enhancing Voice Assistant Security through Advanced Acoustic Metamaterial</title>
