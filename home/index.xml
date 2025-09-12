@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://zwang4.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,12 @@
     <item>
       <title></title>
       <link>https://zwang4.github.io/home/about/</link>
-      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/home/about/</guid>
-      <description>I work to make software development easier and more accessible so that every programmer can easily write, maintain and optimise software. I maintain a list of must-read research papers for machine learning in compilers. I am interested in solving real-world problems by building working prototypes to be tested in real-life environments and real computing hardware using realistic workloads. I lead the Intelligent Systems Software Lab. My research interests include:
- Program optimisation and analysis: I am interested in how we can design new algorithms and optimisation techniques at compilers and operating systems to improve application performance and energy efficiency.</description>
+      <description>I work to make software development easier and more accessible, so that every programmer can easily write, maintain, and optimise software. I maintain a list of must-read research papers on machine learning in compilers.
+I am interested in solving real-world problems by building working prototypes to be tested in real-life environments and real computing hardware using realistic workloads. I lead the Intelligent Systems Software Lab.
+Research interests  Program optimisation and analysis: Designing new compiler and operating system algorithms to improve application performance and energy efficiency.</description>
     </item>
     
     <item>
