@@ -92,15 +92,6 @@
     </item>
     
     <item>
-      <title>Royal Society Industry Fellowship (with Arm)</title>
-      <link>https://zwang4.github.io/project/rs/</link>
-      <pubDate>Sun, 20 Apr 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/project/rs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Towards Diverse Program Transformations for Program Simplification</title>
       <link>https://zwang4.github.io/publication/fse25/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
@@ -142,6 +133,15 @@
       <pubDate>Fri, 20 Dec 2024 11:00:00 +0000</pubDate>
       
       <guid>https://zwang4.github.io/publication/tdsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Momentum in Implicit Bias of Gradient Flow for Diagonal Linear Networks</title>
+      <link>https://zwang4.github.io/publication/aaai25/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/aaai25/</guid>
       <description></description>
     </item>
     
