@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 18 Sep 2025 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zwang4.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SuperEar: Eavesdropping on Mobile Voice Calls via Stealthy Acoustic Metamaterial</title>
+      <link>https://zwang4.github.io/publication/www26/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/www26/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Heavy-Ball Momentum Method in Continuous Time and Discretization Error Analysis</title>

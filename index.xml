@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>SuperEar: Eavesdropping on Mobile Voice Calls via Stealthy Acoustic Metamaterial</title>
+      <link>https://zwang4.github.io/publication/www26/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/www26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Royal Society Industry Fellowship (with Arm Ltd)</title>
       <link>https://zwang4.github.io/project/rs/</link>
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://zwang4.github.io/publication/ipdps25-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCENARIO: User-Device Authentication on Smart IoTs Using Commodity RFID</title>
-      <link>https://zwang4.github.io/publication/tdsc/</link>
-      <pubDate>Fri, 20 Dec 2024 11:00:00 +0000</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/tdsc/</guid>
       <description></description>
     </item>
     
