@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 18 Sep 2025 12:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zwang4.github.io/publication_topics/0/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>KVSwap: Disk-aware KV Cache Offloading for Long-Context On-device Inference</title>
+      <link>https://zwang4.github.io/publication/mobisys26/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/mobisys26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lifting Optimized Binaries to Canonical Compiler IR via Structure-Aware Retrieval and Iterative Verification</title>
+      <link>https://zwang4.github.io/publication/acl26/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/acl26/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SpikeTouch: Optimizing Spike Neural Networks for Tactile Perception</title>
