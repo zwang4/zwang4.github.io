@@ -74,6 +74,15 @@
     </item>
     
     <item>
+      <title>The new compiler stack: a survey on the synergy of LLMs and compilers</title>
+      <link>https://zwang4.github.io/publication/thpc/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/thpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Royal Society Industry Fellowship (with Arm Ltd)</title>
       <link>https://zwang4.github.io/project/rs/</link>
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Fri, 20 Jun 2025 12:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/publication/mobicom25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SecureMind: A Framework for Benchmarking Large Language Models in Memory Bug Detection and Repair</title>
-      <link>https://zwang4.github.io/publication/ismm25/</link>
-      <pubDate>Sat, 03 May 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/ismm25/</guid>
       <description></description>
     </item>
     
