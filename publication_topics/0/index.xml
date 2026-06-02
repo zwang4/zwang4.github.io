@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Augmenting LLM Code Translation with Compiler Analysis for C to Triton Kernel Generation</title>
+      <link>https://zwang4.github.io/publication/aihpc2/</link>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/aihpc2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Enhance Performance Tuning via LLM-guided Search Templates</title>
       <link>https://zwang4.github.io/publication/aihpc/</link>
       <pubDate>Sun, 12 Apr 2026 00:00:00 +0100</pubDate>
