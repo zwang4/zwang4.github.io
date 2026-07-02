@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Scaling Quantum Circuit Optimization via Guided Exploration and Global Context Learning</title>
+      <link>https://zwang4.github.io/publication/sc26/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/sc26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FluidGPU: Fine-Grained Kernel Disaggregation for Large Model Inference on Heterogeneous GPUs</title>
+      <link>https://zwang4.github.io/publication/sc26-1/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/sc26-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Interpreter Memory Safety via Differential Fuzzing with a CHERI on Top</title>
       <link>https://zwang4.github.io/publication/ismm26/</link>
       <pubDate>Sun, 03 May 2026 00:00:00 +0100</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Wed, 20 Aug 2025 12:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/publication/iiswc25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Accelerating Private Large Transformers Inference through Fine-grained Collaborative Computation</title>
-      <link>https://zwang4.github.io/publication/tifs25/</link>
-      <pubDate>Sun, 22 Jun 2025 12:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/tifs25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MetaGuardian: Enhancing Voice Assistant Security through Advanced Acoustic Metamaterial</title>
-      <link>https://zwang4.github.io/publication/mobicom25/</link>
-      <pubDate>Fri, 20 Jun 2025 12:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/mobicom25/</guid>
       <description></description>
     </item>
     

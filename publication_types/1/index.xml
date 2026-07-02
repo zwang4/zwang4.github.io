@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 03 May 2026 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://zwang4.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Scaling Quantum Circuit Optimization via Guided Exploration and Global Context Learning</title>
+      <link>https://zwang4.github.io/publication/sc26/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/sc26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FluidGPU: Fine-Grained Kernel Disaggregation for Large Model Inference on Heterogeneous GPUs</title>
+      <link>https://zwang4.github.io/publication/sc26-1/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/sc26-1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Interpreter Memory Safety via Differential Fuzzing with a CHERI on Top</title>
