@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>CapOpt: Capability-aware Superoptimization for Secure and Provably Faster Code</title>
+      <link>https://zwang4.github.io/publication/oopsla26/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/oopsla26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SYNERGYSCALE: Optimizing Offloading and Task Partitioning for Efficient Model Training</title>
+      <link>https://zwang4.github.io/publication/tpds26/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tpds26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Scaling Quantum Circuit Optimization via Guided Exploration and Global Context Learning</title>
       <link>https://zwang4.github.io/publication/sc26/</link>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0100</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Thu, 18 Sep 2025 09:00:00 +0100</pubDate>
       
       <guid>https://zwang4.github.io/publication/nips25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> Tuning LLM-based Code Optimization via Meta-Prompting: An Industrial Perspective</title>
-      <link>https://zwang4.github.io/publication/ase25/</link>
-      <pubDate>Thu, 11 Sep 2025 12:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/ase25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sweet or Sour CHERI: Performance Characterization of the Arm Morello Platform</title>
-      <link>https://zwang4.github.io/publication/iiswc25/</link>
-      <pubDate>Wed, 20 Aug 2025 12:00:00 +0100</pubDate>
-      
-      <guid>https://zwang4.github.io/publication/iiswc25/</guid>
       <description></description>
     </item>
     

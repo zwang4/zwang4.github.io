@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://zwang4.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CapOpt: Capability-aware Superoptimization for Secure and Provably Faster Code</title>
+      <link>https://zwang4.github.io/publication/oopsla26/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/oopsla26/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Scaling Quantum Circuit Optimization via Guided Exploration and Global Context Learning</title>

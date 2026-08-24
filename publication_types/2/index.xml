@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://zwang4.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SYNERGYSCALE: Optimizing Offloading and Task Partitioning for Efficient Model Training</title>
+      <link>https://zwang4.github.io/publication/tpds26/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://zwang4.github.io/publication/tpds26/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The new compiler stack: a survey on the synergy of LLMs and compilers</title>
